@@ -1,0 +1,270 @@
+[
+    {
+    "district": "4. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "4. kerület",
+        "name": "Viktorgasse 14",
+        "description": "Eladó 7 db új építésű tetőtéri lakás és 5 db teljesen felújított, régi építésű lakás a 4. kerületben (Wieden), a Schloss Belvedere közelében.",
+        "numberOfApartments": "27 lakás",
+        "sizeRangeOfApartments": "33-193 m²",
+        "roomRangeOfApartments": "1-6 szoba",
+        "numberOfParkingSpaces": "10 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/viktorgasse-14/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Viktorgasse-Allgemein_09.jpg"
+    },
+        {
+        "id": "2",
+        "district": "4. kerület",
+        "name": "Fleischmanngasse 6",
+        "description": "Új építésű társasház, 7 emeleten összesen 34 db lakással a 4. kerület (Wieden) frekventált részén a Wiedner Haupstraße szomszédságában. ",
+        "numberOfApartments": "34 lakás",
+        "sizeRangeOfApartments": "50-113 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "13 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/fleischmanngasse-6/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/fleischmanngasse-6-1536x864.png"
+    }
+    ]
+},
+{
+    "district": "12. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "12. kerület",
+        "name": "Aßmayergasse 2",
+        "description": "Új építésű társasház 49 db lakással a 12. kerületben, a Meidlinger Markt és az U4/U6 Längenfeldagasse megálló közelében!",
+        "numberOfApartments": "49 lakás",
+        "sizeRangeOfApartments": "42-77 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "18 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/assmayergasse-2/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Asmyergasse-2-1536x864.png"
+    }
+    ]
+},
+{
+    "district": "13. kerület",
+    "projects": [
+    {
+       "id": "1",
+       "district": "13. kerület",
+        "name": "Fasangartengasse 39",
+        "description": "Új építésű lakókomplexum 20 db lakással a 13. kerület zöldövezeti részén! A projekt jelenleg tervezési fázisban van.",
+        "numberOfApartments": "20 lakás",
+        "sizeRangeOfApartments": "35-132 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "14 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/fasangartengasse-39/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/fasangartengasse-39-1536x864.png"
+    },
+    {
+        "id": "2",
+        "district": "13. kerület",
+        "name": "Versorgungsheimstrasse 17",
+        "description": "Azonnal költözhető ingatlanok Bécs egyik leghangulatosabb kerületében, Hietzingben. A földszinti lakásokhoz kert, az emeleti lakásokhoz erkély vagy terasz is tartozik.",
+        "numberOfApartments": "46 lakás",
+        "sizeRangeOfApartments": "38-140 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "21 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/versorgungsheimstrasse-17/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/04/Frame-39-1536x864.png"
+    }
+    ]
+},
+{
+    "district": "14. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "14. kerület",
+        "name": "Ameisgasse 28",
+        "description": "Új építésű lakókomplexum 14 db kiváló beosztású, esztétikus lakással. A földszinti lakásokhoz kert, az emeleti lakásokhoz terasz vagy erkély is tartozik.",
+        "numberOfApartments": "29 lakás",
+        "sizeRangeOfApartments": "39-111 m²",
+        "roomRangeOfApartments": "1-3 szoba",
+        "numberOfParkingSpaces": "16 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/ameisgasse-28/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Ameisgasse-28-1536x864.png"
+    },
+    {
+        "id": "2",
+        "district": "14. kerület",
+        "name": "Felbigergasse 100",
+        "description": "Új építésű lakókomplexum 14 db kiváló beosztású, esztétikus lakással. A földszinti lakásokhoz kert, az emeleti lakásokhoz terasz vagy erkély is tartozik.",
+        "numberOfApartments": "14 lakás",
+        "sizeRangeOfApartments": "41-76 m²",
+        "roomRangeOfApartments": "2-3 szoba",
+        "numberOfParkingSpaces": "20 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/felbigergasse-100/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Uj-epitesu-ingatlan-Becs-14.-kerulet-1536x864.png"
+    },
+    {
+        "id": "3",
+        "district": "14. kerület",
+        "name": "Flötzersteig 225",
+        "description": "Új építésű lakókomplexum 22 db lakással a 14. kerület zöldövezeti részén. A földszinti lakásokhoz kert, az emeleti lakásokhoz erkély vagy terasz is tartozik.",
+        "numberOfApartments": "20 lakás",
+        "sizeRangeOfApartments": "44-95 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "13 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/flotzersteig-225/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/flotzersteig-225-1536x864.png"
+    },
+    {
+        "id": "4",
+        "district": "14. kerület",
+        "name": "Hütteldorfer Straße 269-271",
+        "description": "Új építésű lakókomplexum 22 db lakással a 14. kerület zöldövezeti részén. A földszinti lakásokhoz kert, az emeleti lakásokhoz erkély vagy terasz is tartozik.",
+        "numberOfApartments": "22 lakás",
+        "sizeRangeOfApartments": "31-105 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "20 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/hutteldorfer-strase-269-271/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Foto-15.04.24-09-57-50-1536x1152.jpg"
+    },
+    {
+        "id": "5",
+        "district": "14. kerület",
+        "name": "Linzer Straße 237A",
+        "description": "Új építésű társasház a 14. kerület frekventált részén az U4-es metró Unter Sankt Veit megállójától mindössze néhány perc sétára.",
+        "numberOfApartments": "35 lakás",
+        "sizeRangeOfApartments": "33-70 m²",
+        "roomRangeOfApartments": "2-3 szoba",
+        "numberOfParkingSpaces": "-",
+        "linkToProject": "https://becsingatlan.com/pages/linzer-strase-237a/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/12/linzer-strase-237a.png"
+    }
+    ]
+},          
+{
+    "district": "15. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "15. kerület",
+        "name": "Rauchfangkehrergasse 30",
+        "description": "Új építésű lakókomplexum 27 db lakással és 3 db kétszintes városi házzal a 15. kerületben!",
+        "numberOfApartments": "30 lakás",
+        "sizeRangeOfApartments": "33-107 m²",
+        "roomRangeOfApartments": "1-6 szoba",
+        "numberOfParkingSpaces": "18 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/rauchfangkehrergasse-30/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Tag-975x1024-1.jpg"
+    }
+    ]
+},
+{
+    "district": "19. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "19. kerület",
+        "name": "Greinergasse 19",
+        "description": "Új építésű társasház a 19. kerület Nussdorf negyedében! Ízléses lakások exkluzív környezetben!",
+        "numberOfApartments": "25 lakás",
+        "sizeRangeOfApartments": "46-118 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "17 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/greinergasse-19/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/greinergasse-19-1536x864.png"
+    },
+    {
+        "id": "2",
+        "district": "19. kerület",
+        "name": "Krottenbachstrasse 182",
+        "description": "Luxusingatlanok a 19. kerület csendes, zöldövezeti részén. Hatalmas belső kertek és tetőteraszok. Prémium kivitelezés, kellemes napfényes lakások csodálatos kilátással.",
+        "numberOfApartments": "32 lakás",
+        "sizeRangeOfApartments": "45-155 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "32 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/krottenbachstrasse-182/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/KRO182_7-2048x1152.jpg"
+    },
+    {
+        "id": "3",
+        "district": "19. kerület",
+        "name": "Obersteinergasse 11",
+        "description": "Új építésű társasház ÖGNI-Gold energiahatékonysági tanúsítvánnyal, a 19. kerület csendes, zöldövezeti részén. Klimatizált lakások és lélegzetelállító kilátás a városra.",
+        "numberOfApartments": "59 lakás",
+        "sizeRangeOfApartments": "45-185 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "52 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/obersteinergasse-11/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/1-1024x622-2.jpg"
+    },
+    {
+        "id": "4",
+        "district": "19. kerület",
+        "name": "Paradisgasse 24",
+        "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
+        "numberOfApartments": "47 lakás",
+        "sizeRangeOfApartments": "58-146 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "31 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/paradisgasse-24/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Paradisgasse-24-1536x864.png"
+    },
+    {
+        "id": "5",
+        "district": "19. kerület",
+        "name": "Raffelspergergasse 26",
+        "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
+        "numberOfApartments": "20 lakás",
+        "sizeRangeOfApartments": "45-156 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "20 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/raffelspergergasse-26/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/02/1-2-1536x864.jpg"
+    }
+    ]
+},
+{
+    "district": "22. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "22. kerület",
+        "name": "Arakawastraße 3/Tokiostraße 5",
+        "description": "Új építésű társasház 50 db lakással a 22. kerület csendes zöldövezeti részén az Alte Donau-holtágtól mindössze néhány perc sétára.",
+        "numberOfApartments": "50 lakás",
+        "sizeRangeOfApartments": "35-88 m²",
+        "roomRangeOfApartments": "2-3 szoba",
+        "numberOfParkingSpaces": "23 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/arakawastrasse-3-tokiostrasse-5/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Frame-57-1536x864.png"
+    }
+    ]
+},
+{
+    "district": "23. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "23. kerület",
+        "name": "Basler Gasse 5",
+        "description": "Új építésű társasház 22 db lakással a 23. kerületben a Wienerberger-tó és a Shopping City Süd közelében!",
+        "numberOfApartments": "22 lakás",
+        "sizeRangeOfApartments": "40-80 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "11 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/basler-gasse-5/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/basler-gasse-5-1536x864.png"
+    },
+    {
+        "id": "2",
+        "district": "23. kerület",
+        "name": "Wettengelgasse 2",
+        "description": "Új építésű társasház 7 db lakással a 23. kerületben!",
+        "numberOfApartments": "7 lakás",
+        "sizeRangeOfApartments": "46-77 m²",
+        "roomRangeOfApartments": "2-3 szoba",
+        "numberOfParkingSpaces": "3 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/wettengelgasse-2/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/wettengelgasse-2-1536x864.png"
+    }
+    ]
+}
+]
