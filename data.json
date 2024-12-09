@@ -42,18 +42,6 @@
         "numberOfParkingSpaces": "18 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/assmayergasse-2/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Asmyergasse-2-1536x864.png"
-    },
-    {
-        "id": "2",
-        "district": "12. kerület",
-        "name": "Aßmayergasse 2",
-        "description": "Új építésű társasház 49 db lakással a 12. kerületben, a Meidlinger Markt és az U4/U6 Längenfeldagasse megálló közelében!",
-        "numberOfApartments": "49 lakás",
-        "sizeRangeOfApartments": "42-77 m²",
-        "roomRangeOfApartments": "2-5 szoba",
-        "numberOfParkingSpaces": "18 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/assmayergasse-2/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Asmyergasse-2-1536x864.png"
     }
     ]
 },
