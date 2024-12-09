@@ -208,26 +208,5 @@
         "listingPriceForPersonalUse": "€ 658 000,00",
         "commonCharges": "-",
         "status": "Elérhető"
-    },
-    {
-        "id": "11",
-        "projectAcronym": "FLE6",
-        "houseNumber": "1",
-        "apartmentNumber": "33",
-        "floorNumber": "1. tetőemelet",
-        "roomNumber": "2",
-        "livingArea": "49,70",
-        "loggiaArea": "-",
-        "balconyArea": "10,00",
-        "terraceArea": "-",
-        "roofTerraceArea": "-",
-        "gardenTerraceArea": "-",
-        "gardenArea": "-",
-        "sumOfOutsideAreas": "10,00",
-        "sumOfAllAreas": "59,70",
-        "listingPriceForInvestors": "€ 999 999,00",
-        "listingPriceForPersonalUse": "€ 658 000,00",
-        "commonCharges": "-",
-        "status": "Elérhető"
     }
 ]
