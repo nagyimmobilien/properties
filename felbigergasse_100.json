@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "projectAcronym": "RAF26",
+        "projectAcronym": "FEL100",
         "houseNumber": "1",
         "apartmentNumber": "1",
         "floorNumber": "Földszint",
@@ -22,7 +22,7 @@
     },
     {
         "id": "2",
-        "projectAcronym": "RAF26",
+        "projectAcronym": "FEL100",
         "houseNumber": "1",
         "apartmentNumber": "2",
         "floorNumber": "Földszint",
@@ -43,7 +43,7 @@
     },
     {
         "id": "3",
-        "projectAcronym": "RAF26",
+        "projectAcronym": "FEL100",
         "houseNumber": "1",
         "apartmentNumber": "3",
         "floorNumber": "Földszint",
@@ -64,7 +64,7 @@
     },
     {
         "id": 4,
-        "projectAcronym": "RAF26",
+        "projectAcronym": "FEL100",
         "houseNumber": "1",
         "apartmentNumber": "4",
         "floorNumber": "1. emelet",
@@ -85,7 +85,7 @@
     },
     {
         "id": 5,
-        "projectAcronym": "RAF26",
+        "projectAcronym": "FEL100",
         "houseNumber": "1",
         "apartmentNumber": "6",
         "floorNumber": "1. emelet",
@@ -106,7 +106,7 @@
     },
     {
         "id": 6,
-        "projectAcronym": "RAF26",
+        "projectAcronym": "FEL100",
         "houseNumber": "1",
         "apartmentNumber": "9",
         "floorNumber": "2. emelet",
