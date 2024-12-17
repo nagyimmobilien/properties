@@ -141,10 +141,10 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "3,58",
     "sumOfAllAreas": "37,45",
-    "listingPriceForInvestors": "€ 217 000,00",
-    "listingPriceForPersonalUse": "€ 236 000,00",
-    "commonCharges": "€ 133,00",
-    "status": "Elérhető"
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "commonCharges": "-",
+    "status": "Eladva"
 },
 {
     "id": 8,
@@ -162,10 +162,10 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "4,45",
     "sumOfAllAreas": "51,95",
-    "listingPriceForInvestors": "€ 297 000,00",
-    "listingPriceForPersonalUse": "€ 329 000,00",
-    "commonCharges": "€ 187,30",
-    "status": "Elérhető"
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "commonCharges": "-",
+    "status": "Eladva"
 },
 {
     "id": 9,
@@ -246,10 +246,10 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "4,45",
     "sumOfAllAreas": "51,95",
-    "listingPriceForInvestors": "€ 336 400,00",
-    "listingPriceForPersonalUse": "€ 379 000,00",
-    "commonCharges": "€ 187,30",
-    "status": "Elérhető"
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "commonCharges": "-",
+    "status": "Eladva"
 },
 {
     "id": 13,
@@ -351,13 +351,34 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "4,09",
     "sumOfAllAreas": "51,18",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "commonCharges": "-",
+    "status": "Eladva"
+},
+{
+    "id": 18,
+    "projectAcronym": "RAU30",
+    "houseNumber": "1",
+    "apartmentNumber": "28",
+    "floorNumber": "1. tetőemelet",
+    "roomNumber": "2",
+    "livingArea": "47,09",
+    "loggiaArea": "4,09",
+    "balconyArea": "-",
+    "terraceArea": "-",
+    "roofTerraceArea": "-",
+    "gardenTerraceArea": "-",
+    "gardenArea": "-",
+    "sumOfOutsideAreas": "4,09",
+    "sumOfAllAreas": "51,18",
     "listingPriceForInvestors": "€ 350 602,00",
     "listingPriceForPersonalUse": "€ 395 000,00",
     "commonCharges": "€ 184,90",
     "status": "Elérhető"
 },
 {
-    "id": 18,
+    "id": 19,
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "29",
@@ -378,7 +399,7 @@
     "status": "Elérhető"
 },
 {
-    "id": "19",
+    "id": "20",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "30",
@@ -393,13 +414,13 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "13,61",
     "sumOfAllAreas": "117,55",
-    "listingPriceForInvestors": "€ 852 096,00",
-    "listingPriceForPersonalUse": "€ 960 000,00",
-    "commonCharges": "€ 442,20",
-    "status": "Elérhető"
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "commonCharges": "-",
+    "status": "Eladva"
 },
 {
-    "id": "20",
+    "id": "21",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "31",
@@ -414,9 +435,9 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "13,47",
     "sumOfAllAreas": "120,74",
-    "listingPriceForInvestors": "€ 770 270,00",
-    "listingPriceForPersonalUse": "€ 855 000,00",
-    "commonCharges": "€ 456,40",
-    "status": "Elérhető"
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "commonCharges": "-",
+    "status": "Eladva"
 }
 ]
