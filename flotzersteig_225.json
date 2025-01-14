@@ -15,10 +15,10 @@
         "gardenArea": "-",
         "sumOfOutsideAreas": "17,24",
         "sumOfAllAreas": "90,00",
-        "listingPriceForInvestors": "€ 599 320,00",
-        "listingPriceForPersonalUse": "€ 655 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "€ -",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     { 
         "id": "2",
@@ -78,8 +78,8 @@
         "gardenArea": "84,80",
         "sumOfOutsideAreas": "99,11",
         "sumOfAllAreas": "168,72",
-        "listingPriceForInvestors": "€ 526 120,00",
-        "listingPriceForPersonalUse": "€ 575 000,00",
+        "listingPriceForInvestors": "€ 448 350,00",
+        "listingPriceForPersonalUse": "€ 490 000,00",
         "commonCharges": "€ -",
         "status": "Elérhető"
     },
@@ -120,8 +120,8 @@
         "gardenArea": "-",
         "sumOfOutsideAreas": "5,21",
         "sumOfAllAreas": "74,60",
-        "listingPriceForInvestors": "€ 562 720,00",
-        "listingPriceForPersonalUse": "€ 615 000,00",
+        "listingPriceForInvestors": "€ 498 670,00",
+        "listingPriceForPersonalUse": "€ 545 000,00",
         "commonCharges": "€ -",
         "status": "Elérhető"
     },
