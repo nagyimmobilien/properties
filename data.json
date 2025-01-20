@@ -1,5 +1,22 @@
 [
+{
+    "district": "3. kerület",
+    "projects": [
     {
+        "id": "1",
+        "district": "3. kerület",
+        "name": "Ungarngasse 16",
+        "description": "Revitalizált, társasház új építésű, tetőtéri lakásokkal a 3. kerület (Landstraße) központi részén található a Wien Mitte tömegközlekedési csomóponttól mindössze néhány perc sétára.",
+        "numberOfApartments": "4 lakás",
+        "sizeRangeOfApartments": "62-117 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "nincs parkoló",
+        "linkToProject": "https://becsingatlan.com/pages/ungarngasse-16/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/01/ungarngasse-16.png"
+    }
+    ]
+},
+{
     "district": "4. kerület",
     "projects": [
     {
