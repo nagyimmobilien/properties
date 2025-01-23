@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "TOK5",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 5",
+        "listingPriceForInvestors": "€ 26 500,00",
+        "listingPriceForPersonalUse": "€ 29 150,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "TOK5",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 22",
+        "listingPriceForInvestors": "€ 26 500,00",
+        "listingPriceForPersonalUse": "€ 29 150,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "TOK5",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 36",
+        "listingPriceForInvestors": "€ 26 500,00",
+        "listingPriceForPersonalUse": "€ 29 150,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "TOK5",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 50",
+        "listingPriceForInvestors": "€ 26 500,00",
+        "listingPriceForPersonalUse": "€ 29 150,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "5",
+        "projectAcronym": "TOK5",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 70",
+        "listingPriceForInvestors": "€ 26 500,00",
+        "listingPriceForPersonalUse": "€ 29 150,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 6,
+        "projectAcronym": "TOK5",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 107",
+        "listingPriceForInvestors": "€ 26 500,00",
+        "listingPriceForPersonalUse": "€ 29 150,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
