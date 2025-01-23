@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "FLO225",
+        "houseNumber": "1",
+        "parkingNumber": "1",
+        "listingPriceForInvestors": "€ 34 310,00",
+        "listingPriceForPersonalUse": "€ 37 500,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "FLO225",
+        "houseNumber": "1",
+        "parkingNumber": "2",
+        "listingPriceForInvestors": "€ 34 310,00",
+        "listingPriceForPersonalUse": "€ 37 500,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "FLO225",
+        "houseNumber": "1",
+        "parkingNumber": "3",
+        "listingPriceForInvestors": "€ 34 310,00",
+        "listingPriceForPersonalUse": "€ 37 500,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "FLO225",
+        "houseNumber": "1",
+        "parkingNumber": "10",
+        "listingPriceForInvestors": "€ 34 310,00",
+        "listingPriceForPersonalUse": "€ 37 500,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
