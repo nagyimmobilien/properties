@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "1",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "2",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "3",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "4",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "5",
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "5",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 6,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "6",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 7,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "7",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 8,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "8",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 9,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "9",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 10,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "10",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 11,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "11",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 12,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "12",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 13,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "13",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 14,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "14",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 15,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "15",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 16,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "16",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 17,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "17",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": 18,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "18",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 19,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "19",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 20,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "20",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    },
+    {
+        "id": 21,
+        "projectAcronym": "VER17",
+        "houseNumber": "1",
+        "parkingNumber": "21",
+        "listingPriceForInvestors": "€ 31 130,00",
+        "listingPriceForPersonalUse": "€ 35 000,00",
+        "commonCharges": "€ 17,19",
+        "status": "Elérhető"
+    }
+]
