@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 3",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 8",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 10",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 14",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "5",
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 15",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 6,
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 17",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 7,
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 22",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 8,
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 23",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 9,
+        "projectAcronym": "AME28",
+        "houseNumber": "1",
+        "parkingNumber": "TOP 28",
+        "listingPriceForInvestors": "€ 35 000,00",
+        "listingPriceForPersonalUse": "€ 39 550,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
