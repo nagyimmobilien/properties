@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "PAR24",
+        "houseNumber": "24+26",
+        "parkingNumber": "8",
+        "listingPriceForInvestors": "€ 35 070,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "PAR24",
+        "houseNumber": "24+26",
+        "parkingNumber": "9",
+        "listingPriceForInvestors": "€ 35 070,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "PAR24",
+        "houseNumber": "24+26",
+        "parkingNumber": "27.1",
+        "listingPriceForInvestors": "€ 35 070,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "PAR24",
+        "houseNumber": "24+26",
+        "parkingNumber": "28.1",
+        "listingPriceForInvestors": "€ 35 070,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "5",
+        "projectAcronym": "PAR24",
+        "houseNumber": "24+26",
+        "parkingNumber": "28.2",
+        "listingPriceForInvestors": "€ 35 070,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
