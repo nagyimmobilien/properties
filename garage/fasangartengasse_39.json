@@ -54,10 +54,10 @@
         "projectAcronym": "FAS39",
         "houseNumber": "1",
         "parkingNumber": "6",
-        "listingPriceForInvestors": "€ 31 510,00",
-        "listingPriceForPersonalUse": "€ 38 000,00",
-        "commonCharges": "€ 23,30",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     },
     {
         "id": 7,
