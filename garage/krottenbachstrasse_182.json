@@ -44,10 +44,10 @@
         "projectAcronym": "KRO182",
         "houseNumber": "1+2",
         "parkingNumber": "3B",
-        "listingPriceForInvestors": "€ 33 510,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 6,
@@ -104,10 +104,10 @@
         "projectAcronym": "KRO182",
         "houseNumber": "1+2",
         "parkingNumber": "8",
-        "listingPriceForInvestors": "€ 33 510,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 12,
@@ -164,10 +164,10 @@
         "projectAcronym": "KRO182",
         "houseNumber": "1+2",
         "parkingNumber": "14",
-        "listingPriceForInvestors": "€ 33 510,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 18,
