@@ -315,7 +315,19 @@
         "numberOfParkingSpaces": "23 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/arakawastrasse-3-tokiostrasse-5/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Frame-57-1536x864.png"
-    }
+    },
+    {
+        "id": "1",
+        "district": "22. kerület",
+        "name": "Klenaugasse 3",
+        "description": "Új építésű társasház 23 db lakással és 5 db városi házzal a 22. kerület frekventált részén az U1 Kagraner Platz megállótól mindössze pár perc sétára.",
+        "numberOfApartments": "28 lakás",
+        "sizeRangeOfApartments": "30-8120 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "17 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/klenaugasse-3/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/03/klenaugasse_3.png"
+    },
     ]
 },
 {
