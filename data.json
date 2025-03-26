@@ -175,18 +175,6 @@
         "numberOfParkingSpaces": "20 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/hutteldorfer-strase-269-271/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Foto-15.04.24-09-57-50-1536x1152.jpg"
-    },
-    {
-        "id": "5",
-        "district": "14. kerület",
-        "name": "Linzer Straße 237A",
-        "description": "Új építésű társasház a 14. kerület frekventált részén az U4-es metró Unter Sankt Veit megállójától mindössze néhány perc sétára.",
-        "numberOfApartments": "35 lakás",
-        "sizeRangeOfApartments": "33-70 m²",
-        "roomRangeOfApartments": "2-3 szoba",
-        "numberOfParkingSpaces": "nincs garázs",
-        "linkToProject": "https://becsingatlan.com/pages/linzer-strase-237a/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/12/linzer-strase-237a.png"
     }
     ]
 },          
