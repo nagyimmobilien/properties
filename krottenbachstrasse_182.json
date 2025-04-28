@@ -57,7 +57,7 @@
     "gardenArea": "8,56",
     "sumOfOutsideAreas": "22,28",
     "sumOfAllAreas": "88,28",
-    "listingPriceForInvestors": "€ 455 000,00",
+    "listingPriceForInvestors": "€ 453 600,00",
     "listingPriceForPersonalUse": "€ 510 000,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -99,7 +99,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "6,68",
     "sumOfAllAreas": "64,82",
-    "listingPriceForInvestors": "€ 389 600,00",
+    "listingPriceForInvestors": "€ 388 500,00",
     "listingPriceForPersonalUse": "€ 437 000,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -120,7 +120,7 @@
     "gardenArea": "71,44",
     "sumOfOutsideAreas": "90,16",
     "sumOfAllAreas": "146,39",
-    "listingPriceForInvestors": "€ 492 100,00",
+    "listingPriceForInvestors": "€ 490 700,00",
     "listingPriceForPersonalUse": "€ 548 600,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -141,7 +141,7 @@
     "gardenArea": "150,27",
     "sumOfOutsideAreas": "187,48",
     "sumOfAllAreas": "279,04",
-    "listingPriceForInvestors": "€ 816 500,00",
+    "listingPriceForInvestors": "€ 814 200,00",
     "listingPriceForPersonalUse": "€ 910 500,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -183,7 +183,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "11,91",
     "sumOfAllAreas": "63,48",
-    "listingPriceForInvestors": "€ 405 100,00",
+    "listingPriceForInvestors": "€ 404 100,00",
     "listingPriceForPersonalUse": "€ 447 900,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -204,7 +204,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "6,85",
     "sumOfAllAreas": "68,57",
-    "listingPriceForInvestors": "€ 489 500,00",
+    "listingPriceForInvestors": "€ 488 100,00",
     "listingPriceForPersonalUse": "€ 544 500,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -351,7 +351,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "6,77",
     "sumOfAllAreas": "58,23",
-    "listingPriceForInvestors": "€ 350 000,00",
+    "listingPriceForInvestors": "€ 348 900,00",
     "listingPriceForPersonalUse": "€ 392 000,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -414,10 +414,10 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "12,24",
     "sumOfAllAreas": "107,84",
-    "listingPriceForInvestors": "€ 678 200,00",
-    "listingPriceForPersonalUse": "€ 754 600,00",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
     "commonCharges": "-",
-    "status": "Elérhető"
+    "status": "Eladva"
 },
 {
     "id": 21,
@@ -456,7 +456,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "10,86",
     "sumOfAllAreas": "124,35",
-    "listingPriceForInvestors": "€ 903 800,00",
+    "listingPriceForInvestors": "€ 901 600,00",
     "listingPriceForPersonalUse": "€ 994 000,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -519,7 +519,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "49,09",
     "sumOfAllAreas": "139,54",
-    "listingPriceForInvestors": "€ 887 400,00",
+    "listingPriceForInvestors": "€ 885 200,00",
     "listingPriceForPersonalUse": "€ 973 700,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -582,7 +582,7 @@
     "gardenArea": "40,18",
     "sumOfOutsideAreas": "61,87",
     "sumOfAllAreas": "148,41",
-    "listingPriceForInvestors": "€ 822 500,00",
+    "listingPriceForInvestors": "€ 820 600,00",
     "listingPriceForPersonalUse": "€ 896 600,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -603,7 +603,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "14,29",
     "sumOfAllAreas": "94,52",
-    "listingPriceForInvestors": "€ 741 700,00",
+    "listingPriceForInvestors": "€ 740 100,00",
     "listingPriceForPersonalUse": "€ 808 200,00",
     "commonCharges": "-",
     "status": "Elérhető"
@@ -624,7 +624,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "13,01",
     "sumOfAllAreas": "94,58",
-    "listingPriceForInvestors": "€ 750 700,00",
+    "listingPriceForInvestors": "€ 749 000,00",
     "listingPriceForPersonalUse": "€ 817 900,00",
     "commonCharges": "-",
     "status": "Elérhető"
