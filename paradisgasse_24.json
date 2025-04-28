@@ -1,26 +1,5 @@
 [
     {
-        "id": "1",
-        "projectAcronym": "PAR24",
-        "houseNumber": "24",
-        "apartmentNumber": "4",
-        "floorNumber": "Földszint",
-        "roomNumber": "3",
-        "livingArea": "111,15",
-        "loggiaArea": "-",
-        "balconyArea": "-",
-        "terraceArea": "-",
-        "roofTerraceArea": "-",
-        "gardenTerraceArea": "12,50",
-        "gardenArea": "231,37",
-        "sumOfOutsideAreas": "243,87",
-        "sumOfAllAreas": "355,02",
-        "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "-",
-        "commonCharges": "-",
-        "status": "Eladva"
-    },
-    {
         "id": "2",
         "projectAcronym": "PAR24",
         "houseNumber": "24",
