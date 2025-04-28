@@ -87,6 +87,27 @@
     "id": 5,
     "projectAcronym": "OBE11",
     "houseNumber": "1",
+    "apartmentNumber": "22",
+    "floorNumber": "3. emelet",
+    "roomNumber": "3",
+    "livingArea": "77,86",
+    "loggiaArea": "-",
+    "balconyArea": "13,70",
+    "terraceArea": "-",
+    "roofTerraceArea": "-",
+    "gardenTerraceArea": "-",
+    "gardenArea": "-",
+    "sumOfOutsideAreas": "13,70",
+    "sumOfAllAreas": "91,56",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "€ 799 000,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+},
+{
+    "id": 6,
+    "projectAcronym": "OBE11",
+    "houseNumber": "1",
     "apartmentNumber": "25",
     "floorNumber": "1. tetőemelet",
     "roomNumber": "3",
@@ -105,7 +126,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 6,
+    "id": 7,
     "projectAcronym": "OBE11",
     "houseNumber": "1",
     "apartmentNumber": "26",
@@ -126,7 +147,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 7,
+    "id": 8,
     "projectAcronym": "OBE11",
     "houseNumber": "1",
     "apartmentNumber": "29",
@@ -147,7 +168,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 8,
+    "id": 9,
     "projectAcronym": "OBE11",
     "houseNumber": "1",
     "apartmentNumber": "30",
@@ -168,9 +189,9 @@
     "status": "Elérhető"
 },
 {
-    "id": 9,
+    "id": 10,
     "projectAcronym": "OBE11",
-    "houseNumber": "1",
+    "houseNumber": "2",
     "apartmentNumber": "1",
     "floorNumber": "Földszint",
     "roomNumber": "2",
@@ -184,12 +205,12 @@
     "sumOfOutsideAreas": "25,75",
     "sumOfAllAreas": "69,05",
     "listingPriceForInvestors": "-",
-    "listingPriceForPersonalUse": "€ 419 000,00",
+    "listingPriceForPersonalUse": "€ 399 000,00",
     "commonCharges": "-",
     "status": "Elérhető"
 },
 {
-    "id": 10,
+    "id": 11,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "2",
@@ -210,7 +231,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 11,
+    "id": 12,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "4",
@@ -231,7 +252,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 12,
+    "id": 13,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "10",
@@ -247,12 +268,12 @@
     "sumOfOutsideAreas": "10,69",
     "sumOfAllAreas": "101,40",
     "listingPriceForInvestors": "-",
-    "listingPriceForPersonalUse": "€ 815 000,00",
+    "listingPriceForPersonalUse": "€ 799 000,00",
     "commonCharges": "-",
-    "status": "Elérhető"
+    "status": "Eladva"
 },
 {
-    "id": 13,
+    "id": 14,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "13",
@@ -273,7 +294,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 14,
+    "id": 15,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "14",
@@ -294,7 +315,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 15,
+    "id": 16,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "15",
@@ -315,7 +336,28 @@
     "status": "Elérhető"
 },
 {
-    "id": 16,
+    "id": 17,
+    "projectAcronym": "OBE11",
+    "houseNumber": "2",
+    "apartmentNumber": "18",
+    "floorNumber": "2. emelet",
+    "roomNumber": "2",
+    "livingArea": "44,46",
+    "loggiaArea": "-",
+    "balconyArea": "13,16",
+    "terraceArea": "-",
+    "roofTerraceArea": "-",
+    "gardenTerraceArea": "-",
+    "gardenArea": "-",
+    "sumOfOutsideAreas": "13,16",
+    "sumOfAllAreas": "57,62",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "€ 479 000,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+},
+{
+    "id": 18,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "20",
@@ -336,7 +378,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 17,
+    "id": 19,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "21",
@@ -357,7 +399,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 18,
+    "id": 20,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "22",
@@ -378,7 +420,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 19,
+    "id": 21,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "26",
@@ -399,7 +441,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 20,
+    "id": 22,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "28",
@@ -420,7 +462,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 21,
+    "id": 23,
     "projectAcronym": "OBE11",
     "houseNumber": "2",
     "apartmentNumber": "29",
