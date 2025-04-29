@@ -218,18 +218,6 @@
     {
         "id": "1",
         "district": "19. kerület",
-        "name": "Donauwartesteig 14",
-        "description": "Ez az új építésű társasház a 19. kerületben (Döbling) található, exkluzív környezetben, az erdő közvetlen szomszédságában, lenyűgöző, örök dunai panorámával.",
-        "numberOfApartments": "12 lakás",
-        "sizeRangeOfApartments": "51-249 m²",
-        "roomRangeOfApartments": "2-6 szoba",
-        "numberOfParkingSpaces": "mélygarázs",
-        "linkToProject": "https://becsingatlan.com/pages/donauwartesteig-14/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/12/donauwartesteig_14.png"
-    },
-    {
-        "id": "2",
-        "district": "19. kerület",
         "name": "Greinergasse 19",
         "description": "Új építésű társasház a 19. kerület Nussdorf negyedében! Ízléses lakások exkluzív környezetben!",
         "numberOfApartments": "25 lakás",
@@ -240,7 +228,7 @@
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/greinergasse-19-1536x864.png"
     },
     {
-        "id": "3",
+        "id": "2",
         "district": "19. kerület",
         "name": "Krottenbachstrasse 182",
         "description": "Luxusingatlanok a 19. kerület csendes, zöldövezeti részén. Hatalmas belső kertek és tetőteraszok. Prémium kivitelezés, kellemes napfényes lakások csodálatos kilátással.",
@@ -252,7 +240,7 @@
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/KRO182_7-2048x1152.jpg"
     },
     {
-        "id": "4",
+        "id": "3",
         "district": "19. kerület",
         "name": "Obersteinergasse 11",
         "description": "Új építésű társasház ÖGNI-Gold energiahatékonysági tanúsítvánnyal, a 19. kerület csendes, zöldövezeti részén. Klimatizált lakások és lélegzetelállító kilátás a városra.",
@@ -264,7 +252,7 @@
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/1-1024x622-2.jpg"
     },
     {
-        "id": "5",
+        "id": "4",
         "district": "19. kerület",
         "name": "Paradisgasse 24",
         "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
@@ -276,7 +264,7 @@
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Paradisgasse-24-1536x864.png"
     },
     {
-        "id": "6",
+        "id": "5",
         "district": "19. kerület",
         "name": "Raffelspergergasse 26",
         "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
