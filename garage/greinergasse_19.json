@@ -84,10 +84,10 @@
         "projectAcronym": "GRE19",
         "houseNumber": 1,
         "parkingNumber": "9",
-        "listingPriceForInvestors": "€ 34 300,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "10",
@@ -164,9 +164,9 @@
         "projectAcronym": "GRE19",
         "houseNumber": 1,
         "parkingNumber": 17,
-        "listingPriceForInvestors": "€ 33 730,00",
-        "listingPriceForPersonalUse": "€ 40 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     }
 ]
