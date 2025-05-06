@@ -1,5 +1,15 @@
 [
     {
+        "id": 7,
+        "projectAcronym": "ASS2",
+        "houseNumber": 1,
+        "parkingNumber": "8",
+        "listingPriceForInvestors": "€ 39 800,00",
+        "listingPriceForPersonalUse": "€ 42 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
         "id": "1",
         "projectAcronym": "ASS2",
         "houseNumber": "1",
@@ -10,20 +20,10 @@
         "status": "Elérhető"
     },
     {
-        "id": "2",
-        "projectAcronym": "ASS2",
-        "houseNumber": "1",
-        "parkingNumber": "15",
-        "listingPriceForInvestors": "€ 41 800,00",
-        "listingPriceForPersonalUse": "€ 44 000,00",
-        "commonCharges": "-",
-        "status": "Elérhető"
-    },
-    {
-        "id": "3",
+        "id": 6,
         "projectAcronym": "ASS2",
         "houseNumber": 1,
-        "parkingNumber": "16",
+        "parkingNumber": "12",
         "listingPriceForInvestors": "€ 39 800,00",
         "listingPriceForPersonalUse": "€ 42 000,00",
         "commonCharges": "-",
@@ -50,20 +50,20 @@
         "status": "Elérhető"
     },
     {
-        "id": 6,
+        "id": "2",
         "projectAcronym": "ASS2",
-        "houseNumber": 1,
-        "parkingNumber": "12",
-        "listingPriceForInvestors": "€ 39 800,00",
-        "listingPriceForPersonalUse": "€ 42 000,00",
+        "houseNumber": "1",
+        "parkingNumber": "15",
+        "listingPriceForInvestors": "€ 41 800,00",
+        "listingPriceForPersonalUse": "€ 44 000,00",
         "commonCharges": "-",
         "status": "Elérhető"
     },
     {
-        "id": 7,
+        "id": "3",
         "projectAcronym": "ASS2",
         "houseNumber": 1,
-        "parkingNumber": "8",
+        "parkingNumber": "16",
         "listingPriceForInvestors": "€ 39 800,00",
         "listingPriceForPersonalUse": "€ 42 000,00",
         "commonCharges": "-",
