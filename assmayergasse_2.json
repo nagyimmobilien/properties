@@ -1,5 +1,26 @@
 [
     {
+        "id": "0",
+        "projectAcronym": "ASS2",
+        "houseNumber": "1",
+        "apartmentNumber": "1+2",
+        "floorNumber": "Földszint",
+        "roomNumber": "1",
+        "livingArea": "83,56",
+        "loggiaArea": "-",
+        "balconyArea": "-",
+        "terraceArea": "-",
+        "roofTerraceArea": "-",
+        "gardenTerraceArea": "-",
+        "gardenArea": "-",
+        "sumOfOutsideAreas": "-",
+        "sumOfAllAreas": "83,56",
+        "listingPriceForInvestors": "€ 522 400,00",
+        "listingPriceForPersonalUse": "€ 571 500,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
         "id": "1",
         "projectAcronym": "ASS2",
         "houseNumber": "1",
