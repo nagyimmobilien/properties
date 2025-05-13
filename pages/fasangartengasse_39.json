@@ -1,0 +1,12 @@
+{
+    "projectName": "Fasangartengasse 39",
+    "projectDescription": "Ez az új építésű társasház a 13. kerület (Hietzing) csendes, zöldövezeti részén található. A társasházban 3 emeleten összesen 20 db lakás épül. A kínálatban 2 - 4 szobás, 35 - 132 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz, erkély vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 14 db parkoló áll a lakók rendelkezésére. A projekt egyelőre tervezési fázisban van.",
+    "projectAddress": "Fasangartengasse 39",
+    "projectInformation": ["20 db lakás", "kb. 35-132 m²", "2-4 szoba"],
+    "projectInfrastructure": ["14 db parkolóhely", "csomagbox a rendeléseknek", "kerékpár-, és babakocsitároló", "közösségi kert és játszótér"],
+    "projectEnergyCertificate": ["HWB: 29,90 kWh/m²a", "fGEE: 0,71"],
+    "projectStatus": ["építés alatt", "(várható befejezés 2026 eleje)"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "A kompakt és jól átgondolt alaprajzoknak köszönhetően a lakások minden igényt kielégítenek. A magas színvonalú, funkcionális felszereltség pedig hozzájárul a maximális komfortérzethez. A fenntarthatóság jegyében a lakások fűtéséről a hőszivattyúval üzemeltett padlófűtéses rendszer gondoskodik. A társasház tetején napelemes rendszere kerül kialakításra, mely a megtermelt energiát közvetlenül a társasház főelosztójába táplálja. A hőszivattyú és a napelemes rendszer kombinációjának köszönhetően alacsony üzemeltetési költségekre lehet számítani. A társasház egyik legvonzóbb eleme a közösségi kert, ahol a lakók egy nyugodt, zöld környezetben élvezhetik a természet közelségét.",
+    "projectLocation": "A környék kiváló infrastruktúrával rendelkezik, a mindennapi élethez szükséges üzletek (pl. Billa, Hofer, Spar Gourmet, pékség) és szolgáltatások könnyedén gyalogosan elérhetők. A közelben található villamos- és buszmegállók, valamint az S80-as vonat Spiesing megállója biztosítják a gyors és kényelmes eljutást a város bármely pontjára."
+}
