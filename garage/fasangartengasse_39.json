@@ -117,7 +117,7 @@
         "listingPriceForInvestors": "€ 31 510,00",
         "listingPriceForPersonalUse": "€ 38 000,00",
         "commonCharges": "€ 23,30",
-        "status": "Eladva"
+        "status": "Elérhető"
     },
     {
         "id": 13,
@@ -137,6 +137,6 @@
         "listingPriceForInvestors": "€ 31 510,00",
         "listingPriceForPersonalUse": "€ 38 000,00",
         "commonCharges": "€ 23,30",
-        "status": "Eladva"
+        "status": "Elérhető"
     }
 ]
