@@ -14,30 +14,30 @@
         "projectAcronym": "FAS39",
         "houseNumber": "1",
         "parkingNumber": "2",
-        "listingPriceForInvestors": "€ 31 510,00",
-        "listingPriceForPersonalUse": "€ 38 000,00",
-        "commonCharges": "€ 23,30",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     },
     {
         "id": "3",
         "projectAcronym": "FAS39",
         "houseNumber": "1",
         "parkingNumber": "3",
-        "listingPriceForInvestors": "€ 31 510,00",
-        "listingPriceForPersonalUse": "€ 38 000,00",
-        "commonCharges": "€ 23,30",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     },
     {
         "id": "4",
         "projectAcronym": "FAS39",
         "houseNumber": "1",
         "parkingNumber": "4",
-        "listingPriceForInvestors": "€ 31 510,00",
-        "listingPriceForPersonalUse": "€ 38 000,00",
-        "commonCharges": "€ 23,30",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     },
     {
         "id": "5",
@@ -64,10 +64,10 @@
         "projectAcronym": "FAS39",
         "houseNumber": "1",
         "parkingNumber": "7",
-        "listingPriceForInvestors": "€ 31 510,00",
-        "listingPriceForPersonalUse": "€ 38 000,00",
-        "commonCharges": "€ 23,30",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     },
     {
         "id": 8,
