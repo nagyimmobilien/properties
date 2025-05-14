@@ -1,0 +1,12 @@
+{
+    "projectName": "Greinergasse 19",
+    "projectDescription": "Ez az új építésű társasház a 19. kerület (Döbling) frekventált részén található. A társasházban 5 emeleten összesen 25 db lakás épült. A kínálatban 2 – 4 szobás, 46 – 118 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz, erkély vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 17 db parkoló áll a lakók rendelkezésére. A projekt azonnal költözhető állapotban van.",
+    "projectAddress": "Greinergasse 19",
+    "projectInformation": ["25 db lakás", "kb. 46-118 m²", "2-4 szoba"],
+    "projectInfrastructure": ["17 db parkolóhely", "csomagbox a rendeléseknek", "kerékpár-, és babakocsitároló", "akadálymentes bejárat"],
+    "projectEnergyCertificate": ["HWB: 28 kWh/m²a", "fGEE: 0,67"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "A lakások letisztult vonalai, a napfényben úszó, tágas terek és lenyűgöző kertek páratlan élményt garantálnak. A tölgyfa parketta természetes szépsége és a fürdőszobákban található ízléses greslap padlóburkolat exkluzív környezetet varázsol. Az energiatakarékos hőszivattyúval működtetett padlófűtés és -hűtés minden évszakban ideális klímát teremt.",
+    "projectLocation": "A környék kiváló infrastruktúrával rendelkezik, a mindennapi élethez szükséges üzletek (pl. Billa, Hofer, pékség, gyógyszertár stb.) és szolgáltatások könnyedén gyalogosan elérhetők, emellett számos étterem és kávézó is található a közelben. A társasház tömegközlekedési szempontból is kiváló lokációval rendelkezik, pár perc sétára található több busz- és villamosmegálló, illetve 3 villamosmegállónyira található az U4-es metró Heiligenstadt megállója, ahonnan könnyedén el lehet jutni a város bármely pontjára. A gyermekek számára a közeli játszótér nyújt kikapcsolódási lehetőséget, míg a természetkedvelők számára egy túraútvonal vezet a város felett, ahonnan csodálatos panoráma tárul elénk."
+}
