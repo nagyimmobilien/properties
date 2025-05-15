@@ -1,0 +1,12 @@
+{
+    "projectName": "Krottenbachstrasse 182",
+    "projectDescription": "Új építésű ingatlanprojekt a 19. kerületben, a híres neustifiti heurigerek közelében, a Hackenberg lábánál.",
+    "projectAddress": "Krottenbachstrasse 182",
+    "projectInformation": ["32 db lakás", "kb. 46-118 m²", "2-4 szoba"],
+    "projectInfrastructure": ["32 db parkolóhely", "csomagbox a rendeléseknek", "kerékpár-, és babakocsitároló"],
+    "projectEnergyCertificate": ["HWB: 30,51 kWh/m²a", "fGEE: 0,702"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "A lakások átgondolt alaprajzai és magas színvonalú felszereltség biztosítják a kényelmes és otthonos érzést. A lakásokban alumínium borítással rendelkező műanyag ablakok találhatók, melyek korszerű háromrétegű hőszigetelt üvegezéssel rendelkeznek. Az ablakokra külső alumínium redőny került felszerelésre, így a nyári hónapokban is kellemes hőmérsékleten tarthatjuk a belső tereket. A prémium tölgyfa parkettával ellátott padlók melegséget sugároznak a lakótérbe, amit jól kiegészít a kellemes padlófűtés. A fürdőszobákban elektromos fűtőtest is helyet kapott, illetve mosógépcsatlakozó is található. A déli fekvésnek köszönhetően a lakások kellemesen napfényesek és csodálatos kilátást nyújtanak.",
+    "projectLocation": "Az új építésű lakókomplexumban 3 társasház épül összesen 32 db lakással, amelyekhez saját kert, erkély, loggia vagy tetőterasz tartozik. A Krottenbachstraße felől az első két ház, a Zimmerlweg felől pedig a harmadik. A komplexum még építés alatt áll."
+}
