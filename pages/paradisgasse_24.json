@@ -1,0 +1,12 @@
+{
+    "projectName": "Paradisgasse 24",
+    "projectDescription": "Ez az új építésű luxus lakókomplexum a 19. kerület (Döbling) frekventált részén található.  A lakókomplexumban 4 társasházban összesen 47 db lakás épült. A kínálatban 2 – 5 szobás, 58 – 146 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz, erkély vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 31 db parkoló áll a lakók rendelkezésére. A projekt azonnal költözhető állapotban van.",
+    "projectAddress": "Paradisgasse 24",
+    "projectInformation": ["47 db lakás", "kb. 58-146 m²", "2-5 szoba"],
+    "projectInfrastructure": ["31 db parkolóhely", "csomagbox a rendeléseknek", "közösségi kert sütögető egységgel", "közös használatú borospince"],
+    "projectEnergyCertificate": ["HWB: 39,15 kWh/m²a", "fGEE: 0,834"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "Az ingatlanok kialakításánál a tágas, világos térélmény állt a középpontban. A padlótól mennyezetig érő ablakok világos, napfényes tereket biztosítanak, a beáramló fény mennyiség egyedileg a beépített elektromos redőnyök segítségével szabályozható. A prémium minőségű tölgyfa parketta és a padlófűtés természetes, kellemes hangulatot teremt a helyiségekben. A gondosan válogatott, márkás szaniterek és a minőségi padlóburkolatok elegáns megjelenést sugároznak a fürdőszobákban.",
+    "projectLocation": "A környék kiváló infrastruktúrával rendelkezik, a mindennapi élethez szükséges üzletek (pl. Spar, Billa, gyógyszertár stb.) és szolgáltatások könnyedén gyalogosan elérhetők, emellett számos étterem és kávézó is található a közelben. A társasház tömegközlekedési szempontból is ideális néhány perc sétával elérhető 2 villamosmegálló (37, 38), 2 buszmegálló és az S45-ös vonat Oberdöbling megállója. A környék nagyszerű szabadidős lehetőségeket kínál pl. túrázás, biciklizés vagy akár a népszerű borospincék (heurigerek) látogatása. A gyermekek számára a lakókomplexum közepén található biztonságos közösségi kert és játszótér nyújt kikapcsolódási lehetőséget."
+}
