@@ -122,7 +122,7 @@
     "sumOfAllAreas": "72,56",
     "listingPriceForInvestors": "€ 503 400,00",
     "listingPriceForPersonalUse": "€ 556 400,00",
-    "commonCharges": "€ 219,27",
+    "commonCharges": { "netCommonCharges": 136.15, "elevatorCommonCharges": 25.58, "reserveFundCommonCharges": 57.55 },
     "status": "Elérhető"
 },
 {
@@ -143,7 +143,7 @@
     "sumOfAllAreas": "68,63",
     "listingPriceForInvestors": "€ 476 800,00",
     "listingPriceForPersonalUse": "€ 527 400,00",
-    "commonCharges": "€ 209,45",
+    "commonCharges": { "netCommonCharges": 130.05, "elevatorCommonCharges": 24.43, "reserveFundCommonCharges": 54.97 },
     "status": "Elérhető"
 },
 {
@@ -164,7 +164,7 @@
     "sumOfAllAreas": "114,70",
     "listingPriceForInvestors": "€ 725 300,00",
     "listingPriceForPersonalUse": "€ 806 900,00",
-    "commonCharges": "€ 337,09",
+    "commonCharges": { "netCommonCharges": 209.31, "elevatorCommonCharges": 39.32, "reserveFundCommonCharges": 88.47 },
     "status": "Elérhető"
 },
 {
@@ -185,7 +185,7 @@
     "sumOfAllAreas": "57,45",
     "listingPriceForInvestors": "€ 415 800,00",
     "listingPriceForPersonalUse": "€ 459 300,00",
-    "commonCharges": "€ 180,00",
+    "commonCharges": { "netCommonCharges": 111.77, "elevatorCommonCharges": 21.00, "reserveFundCommonCharges": 47.24 },
     "status": "Elérhető"
 },
 {
@@ -206,7 +206,7 @@
     "sumOfAllAreas": "88,36",
     "listingPriceForInvestors": "€ 624 200,00",
     "listingPriceForPersonalUse": "€ 688 200,00",
-    "commonCharges": "€ 265,09",
+    "commonCharges": { "netCommonCharges": 164.60, "elevatorCommonCharges": 30.92, "reserveFundCommonCharges": 69.57 },
     "status": "Elérhető"
 },
 {
@@ -227,7 +227,7 @@
     "sumOfAllAreas": "109,34",
     "listingPriceForInvestors": "€ 763 300,00",
     "listingPriceForPersonalUse": "€ 844 700,00",
-    "commonCharges": "€ 337,09",
+    "commonCharges": { "netCommonCharges": 209.31, "elevatorCommonCharges": 39.32, "reserveFundCommonCharges": 88.47 },
     "status": "Elérhető"
 },
 {
@@ -248,7 +248,7 @@
     "sumOfAllAreas": "130,58",
     "listingPriceForInvestors": "€ 763 600,00",
     "listingPriceForPersonalUse": "€ 853 700,00",
-    "commonCharges": "€ 373,09",
+    "commonCharges": { "netCommonCharges": 231.66, "elevatorCommonCharges": 43.52, "reserveFundCommonCharges": 97.91 },
     "status": "Elérhető"
 },
 {
@@ -269,7 +269,7 @@
     "sumOfAllAreas": "56,07",
     "listingPriceForInvestors": "€ 410 800,00",
     "listingPriceForPersonalUse": "€ 452 700,00",
-    "commonCharges": "€ 173,45",
+    "commonCharges": { "netCommonCharges": 107.70, "elevatorCommonCharges": 20.23, "reserveFundCommonCharges": 45.52 },
     "status": "Elérhető"
 },
 {
@@ -290,7 +290,7 @@
     "sumOfAllAreas": "98,77",
     "listingPriceForInvestors": "-",
     "listingPriceForPersonalUse": "-",
-    "commonCharges": "-",
+    "commonCharges": { "netCommonCharges": 158.50, "elevatorCommonCharges": 29.78, "reserveFundCommonCharges": 66.99 },
     "status": "Eladva"
 },
 {
@@ -311,7 +311,7 @@
     "sumOfAllAreas": "119,27",
     "listingPriceForInvestors": "€ 845 500,00",
     "listingPriceForPersonalUse": "€ 940 400,00",
-    "commonCharges": "€ 392,73",
+    "commonCharges": { "netCommonCharges": 243.85, "elevatorCommonCharges": 45.81, "reserveFundCommonCharges": 103.07 },
     "status": "Elérhető"
 }
 ]
