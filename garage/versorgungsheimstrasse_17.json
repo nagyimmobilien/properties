@@ -204,9 +204,9 @@
         "projectAcronym": "VER17",
         "houseNumber": "1",
         "parkingNumber": "21",
-        "listingPriceForInvestors": "€ 31 130,00",
-        "listingPriceForPersonalUse": "€ 35 000,00",
-        "commonCharges": "€ 17,19",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     }
 ]
