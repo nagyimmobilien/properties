@@ -18,6 +18,7 @@
         "listingPriceForInvestors": "€ 415 740,74",
         "listingPriceForPersonalUse": "€ 449 000,00",
         "commonCharges": "€ 233,94",
+        "grossRentalFee": "€ 975,00",
         "status": "Elérhető"
     },
     {
@@ -39,6 +40,7 @@
         "listingPriceForInvestors": "€ 434 259,26",
         "listingPriceForPersonalUse": "€ 469 000,00",
         "commonCharges": "€ 246,94",
+        "grossRentalFee": "€ 965,00",
         "status": "Elérhető"
     },
     {
@@ -60,6 +62,7 @@
         "listingPriceForInvestors": "€ 349 000,00",
         "listingPriceForPersonalUse": "€ 323 148,15",
         "commonCharges": "€ 219,33",
+        "grossRentalFee": "€ 760,00",       
         "status": "Elérhető"
     },
     {
@@ -81,6 +84,7 @@
         "listingPriceForInvestors": "€ 286 111,11",
         "listingPriceForPersonalUse": "€ 309 000,00",
         "commonCharges": "€ 195,84",
+        "grossRentalFee": "€ 715,00",
         "status": "Elérhető"
     },
     {
@@ -102,6 +106,7 @@
         "listingPriceForInvestors": "€ 508 333,33",
         "listingPriceForPersonalUse": "€ 549 000,00",
         "commonCharges": "€ 336,83",
+        "grossRentalFee": "€ 1160,00",
         "status": "Elérhető"
     }
 ]

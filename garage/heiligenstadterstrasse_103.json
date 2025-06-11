@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "1",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "2",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "3",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "4",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "5",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "5",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "6",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "6",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "7",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "7",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "8",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "8",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "9",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "9",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "10",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "10",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "11",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "11",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "12",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "12",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "13",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "13",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "14",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "14",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "15",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "15",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "16",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "16",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "17",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "17",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "18",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "18",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "19",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "19",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "20",
+        "projectAcronym": "HEI103",
+        "houseNumber": "1",
+        "parkingNumber": "20",
+        "listingPriceForInvestors": "€ 31 660,00",
+        "listingPriceForPersonalUse": "€ 38 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
