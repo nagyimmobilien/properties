@@ -1,0 +1,12 @@
+{
+    "projectName": "Heiligenstädter Strasse 103",
+    "projectDescription": "Ez az új építésű társasház a 19. kerület (Döbling) frekventált részén található. A társasházban 7 emeleten összesen 43 db lakás épül. A kínálatban 1 - 4 szobás, 44 - 120 m² alapterületű lakások szerepelnek. Az udvar felőli oldalon található lakásokhoz erkély, terasz, loggia vagy kert tartozik. A társasház mélygarázsában összesen 20 db parkoló áll a lakók rendelkezésére. A projekt jelenleg építés alatt áll.",
+    "projectAddress": "Heiligenstädter Strasse 103",
+    "projectInformation": ["43 db lakás", "kb. 44-120 m²", "2-4 szoba"],
+    "projectInfrastructure": ["20 db parkolóhely", "csomagbox a rendeléseknek", "kerékpár-, és babakocsitároló", "akadálymentes bejárat"],
+    "projectEnergyCertificate": ["HWB: 23,8 kWh/m²a", "fGEE: 0,73"],
+    "projectStatus": ["építés alatt"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "A lakásokban a magas színvonalú kivitelezés és a maximális kényelem harmonikus egységet alkot. A tágas lakótereket elegáns tölgyfa készparketta és minőségi greslap burkolatok teszik otthonossá. A háromrétegű hőszigetelt üvegezéssel ellátott, alumíniumborítású műanyag nyílászárók kiváló hő- és hangszigetelést biztosítanak, a külső, elektromosan vezérelhető redőnyök pedig extra kényelmet és privát szférát nyújtanak. A fűtésről és a melegvíz-ellátásról környezetbarát távfűtés gondoskodik.",
+    "projectLocation": "A mindennapi élethez szükséges üzletek (pl. Billa, Penny, pékség, gyógyszertár) és szolgáltatások könnyedén gyalogosan elérhetők,  emellett több étterem és kávézó kínál kellemes kikapcsolódási lehetőséget. Tömegközlekedés szempontjából a lokáció kiváló: mindössze néhány perc sétára elérhető a Heiligenstadt vasútállomás, ahol több gyorsvasúti járat (S40, S45) mellett az U4-es metró is megáll, ezáltal biztosított a gyors és kényelmes kapcsolat a belvárossal. Ezen felül a közelben több buszmegálló, valamint egy villamosmegálló is rendelkezésre áll."
+}
