@@ -245,6 +245,19 @@
     {
         "id": "2",
         "district": "19. kerület",
+        "name": "Heiligenstädter Straße 103",
+        "description": "Új építésű társasház a 19. kerület frekventált részén! 43 db exkluzív lakás loggiával, erkéllyel, terasszal vagy kerttel!",
+        "numberOfApartments": "43 lakás",
+        "sizeRangeOfApartments": "44-120 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "20 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/heiligenstadter-strasse-103/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/06/1190_HEI103_Cover.png",
+        "isRaiffeisenWohnBauProject": true
+    },
+    {
+        "id": "3",
+        "district": "19. kerület",
         "name": "Krottenbachstrasse 182",
         "description": "Luxusingatlanok a 19. kerület csendes, zöldövezeti részén. Hatalmas belső kertek és tetőteraszok. Prémium kivitelezés, kellemes napfényes lakások csodálatos kilátással.",
         "numberOfApartments": "32 lakás",
@@ -256,7 +269,7 @@
         "isRaiffeisenWohnBauProject": true
     },
     {
-        "id": "3",
+        "id": "4",
         "district": "19. kerület",
         "name": "Obersteinergasse 11",
         "description": "Új építésű társasház ÖGNI-Gold energiahatékonysági tanúsítvánnyal, a 19. kerület csendes, zöldövezeti részén. Klimatizált lakások és lélegzetelállító kilátás a városra.",
@@ -269,7 +282,7 @@
         "isRaiffeisenWohnBauProject": false
     },
     {
-        "id": "4",
+        "id": "5",
         "district": "19. kerület",
         "name": "Paradisgasse 24",
         "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
@@ -282,7 +295,7 @@
         "isRaiffeisenWohnBauProject": true
     },
     {
-        "id": "5",
+        "id": "6",
         "district": "19. kerület",
         "name": "Raffelspergergasse 26",
         "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
