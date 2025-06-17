@@ -72,6 +72,19 @@
     {
         "id": "1",
         "district": "10. kerület",
+        "name": "Davidgasse 59",
+        "description": "Új építésű társasház a 10. kerület frekventált részén a Wienerberg közelében!",
+        "numberOfApartments": "141 lakás",
+        "sizeRangeOfApartments": "30-100 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "10 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/davidgasse-59",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/06/DAV59_Thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "2",
+        "district": "10. kerület",
         "name": "Uhligstrasse 25",
         "description": "Új építésű társasház a 10. kerület családi házas, zöldövezeti részén az U1 metró Neulaa megálló közelében!",
         "numberOfApartments": "15 lakás",
