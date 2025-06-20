@@ -23,17 +23,17 @@
     {
         "id": "1",
         "district": "4. kerület",
-        "name": "Viktorgasse 14",
-        "description": "Eladó 7 db új építésű tetőtéri lakás és 5 db teljesen felújított, régi építésű lakás a 4. kerületben (Wieden), a Schloss Belvedere közelében.",
-        "numberOfApartments": "27 lakás",
-        "sizeRangeOfApartments": "33-193 m²",
-        "roomRangeOfApartments": "1-6 szoba",
-        "numberOfParkingSpaces": "10 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/viktorgasse-14/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Viktorgasse-Allgemein_09.jpg",
+        "name": "Favoritenstrasse 58-60",
+        "description": "Eladó 70 db lakás és 3 üzlethelyiség 2 revitalizált és egy új építésű társasházban a 4. kerületben a bécsi főpályaudvartól mindössze néhány perc sétára.",
+        "numberOfApartments": "70 lakás",
+        "sizeRangeOfApartments": "35-240 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "35 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/favoritenstrasse-58-60/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/06/1040_FAV58_Cover.png",
         "isRaiffeisenWohnBauProject": false
     },
-        {
+    {
         "id": "2",
         "district": "4. kerület",
         "name": "Fleischmanngasse 6",
@@ -46,6 +46,20 @@
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/fleischmanngasse-6-1536x864.png",
         "isRaiffeisenWohnBauProject": false
     }
+    {
+        "id": "3",
+        "district": "4. kerület",
+        "name": "Viktorgasse 14",
+        "description": "Eladó 7 db új építésű tetőtéri lakás és 5 db teljesen felújított, régi építésű lakás a 4. kerületben (Wieden), a Schloss Belvedere közelében.",
+        "numberOfApartments": "27 lakás",
+        "sizeRangeOfApartments": "33-193 m²",
+        "roomRangeOfApartments": "1-6 szoba",
+        "numberOfParkingSpaces": "10 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/viktorgasse-14/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Viktorgasse-Allgemein_09.jpg",
+        "isRaiffeisenWohnBauProject": false
+    },
+
     ]
 },
 {
