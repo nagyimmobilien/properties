@@ -45,7 +45,7 @@
         "linkToProject": "https://becsingatlan.com/pages/fleischmanngasse-6/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/fleischmanngasse-6-1536x864.png",
         "isRaiffeisenWohnBauProject": false
-    }
+    },
     {
         "id": "3",
         "district": "4. kerület",
@@ -58,9 +58,8 @@
         "linkToProject": "https://becsingatlan.com/pages/viktorgasse-14/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Viktorgasse-Allgemein_09.jpg",
         "isRaiffeisenWohnBauProject": false
-    },
-
-    ]
+    }
+]
 },
 {
     "district": "7. kerület",
