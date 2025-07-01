@@ -144,20 +144,20 @@
         "projectAcronym": "RAF26",
         "houseNumber": "1+2",
         "parkingNumber": 15,
-        "listingPriceForInvestors": "€ 31 340,00",
-        "listingPriceForPersonalUse": "€ 36 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 16,
         "projectAcronym": "RAF26",
         "houseNumber": "1+2",
         "parkingNumber": 16,
-        "listingPriceForInvestors": "€ 31 340,00",
-        "listingPriceForPersonalUse": "€ 36 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 17,
