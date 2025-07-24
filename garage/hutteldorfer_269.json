@@ -124,10 +124,10 @@
         "projectAcronym": "HUT269",
         "houseNumber": "1+2",
         "parkingNumber": 13,
-        "listingPriceForInvestors": "€ 31 280,00",
-        "listingPriceForPersonalUse": "€ 34 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 14,
