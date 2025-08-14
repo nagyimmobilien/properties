@@ -225,10 +225,10 @@
         "gardenArea": "-",
         "sumOfOutsideAreas": "3,11",
         "sumOfAllAreas": "42,63",
-        "listingPriceForInvestors": "€ 313 000,00",
-        "listingPriceForPersonalUse": "€ 344 000,00",
-        "commonCharges": "€ 127,78",
-        "status": "Elérhető"
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
     },
     {
         "id": "12",
