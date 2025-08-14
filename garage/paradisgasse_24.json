@@ -4,8 +4,8 @@
         "projectAcronym": "PAR24",
         "houseNumber": "24+26",
         "parkingNumber": "8",
-        "listingPriceForInvestors": "€ 35 070,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "€ 26 070,00",
+        "listingPriceForPersonalUse": "€ 30 000,00",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -14,8 +14,8 @@
         "projectAcronym": "PAR24",
         "houseNumber": "24+26",
         "parkingNumber": "9",
-        "listingPriceForInvestors": "€ 35 070,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "€ 26 070,00",
+        "listingPriceForPersonalUse": "€ 30 000,00",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -34,19 +34,19 @@
         "projectAcronym": "PAR24",
         "houseNumber": "24+26",
         "parkingNumber": "28.1",
-        "listingPriceForInvestors": "€ 35 070,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "5",
         "projectAcronym": "PAR24",
         "houseNumber": "24+26",
         "parkingNumber": "28.2",
-        "listingPriceForInvestors": "€ 35 070,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     }
 ]
