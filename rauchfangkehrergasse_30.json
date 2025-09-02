@@ -24,28 +24,6 @@
     "id": "2",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
-    "apartmentNumber": "3",
-    "newApartmentNumber": "-",
-    "floorNumber": "Földszint",
-    "roomNumber": "2",
-    "livingArea": "40,97",
-    "loggiaArea": "-",
-    "balconyArea": "-",
-    "terraceArea": "-",
-    "roofTerraceArea": "-",
-    "gardenTerraceArea": "9,24",
-    "gardenArea": "55,94",
-    "sumOfOutsideAreas": "65,18",
-    "sumOfAllAreas": "106,15",
-    "listingPriceForInvestors": "-",
-    "listingPriceForPersonalUse": "-",
-    "commonCharges": "-",
-    "status": "Eladva"
-},
-{
-    "id": "3",
-    "projectAcronym": "RAU30",
-    "houseNumber": "1",
     "apartmentNumber": "HT1",
     "floorNumber": "Földszint",
     "roomNumber": "6",
@@ -64,7 +42,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 4,
+    "id": "3",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "HT2",
@@ -85,7 +63,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 5,
+    "id": "4",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "8",
@@ -107,7 +85,7 @@
     "status": "Eladva"
 },
 {
-    "id": 6,
+    "id": "5",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "10",
@@ -129,7 +107,7 @@
     "status": "Eladva"
 },
 {
-    "id": 7,
+    "id": "6",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "11",
@@ -151,29 +129,7 @@
     "status": "Eladva"
 },
 {
-    "id": 8,
-    "projectAcronym": "RAU30",
-    "houseNumber": "1",
-    "apartmentNumber": "13",
-    "newApartmentNumber": "-",
-    "floorNumber": "2. emelet",
-    "roomNumber": "2",
-    "livingArea": "47,50",
-    "loggiaArea": "4,45",
-    "balconyArea": "-",
-    "terraceArea": "-",
-    "roofTerraceArea": "-",
-    "gardenTerraceArea": "-",
-    "gardenArea": "-",
-    "sumOfOutsideAreas": "4,45",
-    "sumOfAllAreas": "51,95",
-    "listingPriceForInvestors": "-",
-    "listingPriceForPersonalUse": "-",
-    "commonCharges": "-",
-    "status": "Eladva"
-},
-{
-    "id": 9,
+    "id": "7",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "12",
@@ -194,7 +150,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 10,
+    "id": "8",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "13",
@@ -215,7 +171,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 11,
+    "id": "9",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "15",
@@ -236,7 +192,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 12,
+    "id": "10",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "19",
@@ -258,28 +214,7 @@
     "status": "Eladva"
 },
 {
-    "id": 13,
-    "projectAcronym": "RAU30",
-    "houseNumber": "1",
-    "apartmentNumber": "19",
-    "floorNumber": "3. emelet",
-    "roomNumber": "2",
-    "livingArea": "46,92",
-    "loggiaArea": "4,09",
-    "balconyArea": "-",
-    "terraceArea": "-",
-    "roofTerraceArea": "-",
-    "gardenTerraceArea": "-",
-    "gardenArea": "-",
-    "sumOfOutsideAreas": "4,09",
-    "sumOfAllAreas": "51,01",
-    "listingPriceForInvestors": "-",
-    "listingPriceForPersonalUse": "-",
-    "commonCharges": "-",
-    "status": "Eladva"
-},
-{
-    "id": 14,
+    "id": "11",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "20",
@@ -300,7 +235,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 15,
+    "id": "12",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "21",
@@ -321,7 +256,7 @@
     "status": "Eladva"
 },
 {
-    "id": 16,
+    "id": "13",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "22",
@@ -342,29 +277,7 @@
     "status": "Eladva"
 },
 {
-    "id": 17,
-    "projectAcronym": "RAU30",
-    "houseNumber": "1",
-    "apartmentNumber": "26",
-    "newApartmentNumber": "-",
-    "floorNumber": "1. tetőemelet",
-    "roomNumber": "2",
-    "livingArea": "47,09",
-    "loggiaArea": "4,09",
-    "balconyArea": "-",
-    "terraceArea": "-",
-    "roofTerraceArea": "-",
-    "gardenTerraceArea": "-",
-    "gardenArea": "-",
-    "sumOfOutsideAreas": "4,09",
-    "sumOfAllAreas": "51,18",
-    "listingPriceForInvestors": "-",
-    "listingPriceForPersonalUse": "-",
-    "commonCharges": "-",
-    "status": "Eladva"
-},
-{
-    "id": 18,
+    "id": "14",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "25",
@@ -385,7 +298,7 @@
     "status": "Elérhető"
 },
 {
-    "id": 19,
+    "id": "15",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "26",
@@ -406,7 +319,7 @@
     "status": "Eladva"
 },
 {
-    "id": "20",
+    "id": "16",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "30",
@@ -428,7 +341,7 @@
     "status": "Eladva"
 },
 {
-    "id": "21",
+    "id": "17",
     "projectAcronym": "RAU30",
     "houseNumber": "1",
     "apartmentNumber": "31",
