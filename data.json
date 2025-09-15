@@ -67,6 +67,24 @@
     ]
 },
 {
+    "district": "9. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "9. kerület",
+        "name": "Augasse 17",
+        "description": "Új építésű társasház a 9. kerület központi részén a Spittelau U4 és U6 megállójától mindössze pár perc sétára!",
+        "numberOfApartments": "81 lakás",
+        "sizeRangeOfApartments": "39-163 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "30 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/augasse-17",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/augasse_17.png",
+        "isRaiffeisenWohnBauProject": true
+    }
+    ]
+},
+{
     "district": "10. kerület",
     "projects": [
     {

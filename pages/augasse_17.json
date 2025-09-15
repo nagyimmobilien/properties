@@ -1,0 +1,12 @@
+{
+    "projectName": "Augasse 17",
+    "projectDescription": "Ez az új építésű társasház a 9. kerület (Alsergrund) központi részén, az U4-es és U6-os metró Spittelau megállójától mindössze néhány perc sétára. A társasházban 8 emeleten összesen 81 db lakás épül. A kínálatban 2 - 5 szobás, 39 - 163 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz, erkély vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 30 db parkoló áll a lakók rendelkezésére. A projekt jelenleg a tervezési szakaszban van, az építkezés megkezdése várhatóan 2026 első felében esedékes.",
+    "projectAddress": "Augasse 17",
+    "projectInformation": ["81 db lakás", "kb. 39-163 m²", "2-5 szoba"],
+    "projectInfrastructure": ["30 db parkolóhely", "csomagbox a rendeléseknek", "kerékpár-, és babakocsitároló", "játszótér"],
+    "projectEnergyCertificate": ["HWB: 27,6 kWh/m²a", "fGEE: 0,75"],
+    "projectStatus": ["tervezés alatt", "építési kezdete 2026 első felében"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "A gondosan kiválasztott anyagok és a jól megtervezett alaprajzok tökéletes harmóniája garantálja a maximális kényelmet és a kiemelkedő lakóélményt. A lakások kellemes hőmérsékletét mennyezetfűtés és -hűtés biztosítja, amelyet távfűtés és hőszivattyú működtet, így minden évszakban optimális klímát garantál. A földszinti lakások pedig padlófűtéssel is rendelkeznek. A 2. tetőemeleten található lakásokban egyénileg szabályozható multisplit-klímaberendezés gondoskodik a kellemes hőmérsékletről. A földszinti és első emeleti lakásoknál külső lamellás árnyékolók, míg a felsőbb szinteken redőnyök biztosítják a megfelelő napfényvédelmet és a privátszférát. A társasház energiahatékony működését a tetőre telepített napelemes rendszer is támogatja.",
+    "projectLocation": "A társasház kiváló infrastruktúrával rendelkezik: a mindennapi élethez szükséges üzletek és szolgáltatások könnyedén gyalogosan elérhetők, emellett éttermek és kávézók sora kínál kellemes lehetőségeket a kikapcsolódásra. Tömegközlekedési szempontból ideális a helyszín: az U4-es és U6-os metró Spittelau megállója mindössze néhány perc sétára található, továbbá több busz- és villamosmegálló biztosít gyors és kényelmes kapcsolatot a város egész területén."
+}
