@@ -1,0 +1,12 @@
+{
+    "projectName": "Erzherzog-Karl-Straße 74",
+    "projectDescription": "Ez az új építésű társasház a 22. kerület (Donaustadt) központi részén, az U4-es és U6-os metró Spittelau megállójától mindössze néhány perc sétára. A társasházban 5 emeleten összesen 33 db lakás és 1 db üzlethelyiség került kialakításra. A kínálatban 1 - 5 szobás, 33 - 122 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz, erkély vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 18 db parkoló áll a lakók rendelkezésére. A projekt elkészült, a lakások azonnal költözhető állapotban vannak.",
+    "projectAddress": "Erzherzog-Karl-Straße 74",
+    "projectInformation": ["33 db lakás", "1 db üzlethelyiség", "kb. 33-122 m²", "1-5 szoba"],
+    "projectInfrastructure": ["18 db parkolóhely", "kerékpár-, és babakocsitároló"],
+    "projectEnergyCertificate": ["HWB: 26,8 kWh/m²a", "fGEE: 0,72"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "Raiffeisen WohnBau GmbH",
+    "projectFeatures": "A lakások belső kialakítását a minőség és az elegancia határozza meg. A tágas lakóterekben időtálló, magas minőségű tölgyfaparketta ad otthonos hangulatot, míg a vizes helyiségekben nagyméretű greslap burkolatok biztosítják a modern hatást. A fürdőszobákban prémium szaniterek (Laufen, Hansgrohe) garantálják az elegáns összképet. Az ablakok háromrétegű, hőszigetelő üvegezéssel készültek, amelyek hozzájárulnak az energiahatékony és nyugodt otthoni környezethez. A lakásokban elő van készítve a klíma beszerelésének lehetősége, míg a tetőtéri otthonokban már beépített légkondicionáló gondoskodik a tökéletes komfortérzetről. A lakások fűtését hőszivattyúval üzemeltetett házközponti rendszer biztosítja.",
+    "projectLocation": "A társasház elhelyezkedése kiváló: a mindennapi élethez szükséges üzletek – például Hofer, Billa, gyógyszertár – néhány perc sétával könnyedén elérhetők. A közelben található az Alte Donau holtága, amely ideális helyszín a kikapcsolódásra és a szabadidő aktív eltöltésére. Nyáron több szabadstrand is várja a pihenni vágyókat. A mindennapi bevásárlások mellett a Donauzentrum változatos üzletei és szolgáltatásai gondoskodnak arról, hogy minden igényét egy helyen kielégíthesse."
+}
