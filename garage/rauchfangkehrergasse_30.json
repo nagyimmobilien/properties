@@ -14,10 +14,10 @@
         "projectAcronym": "RAU30",
         "houseNumber": "1",
         "parkingNumber": "2",
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "3",
@@ -94,20 +94,20 @@
         "projectAcronym": "RAU30",
         "houseNumber": 1,
         "parkingNumber": 10,
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 11,
         "projectAcronym": "RAU30",
         "houseNumber": 1,
         "parkingNumber": 11,
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 12,
@@ -144,10 +144,10 @@
         "projectAcronym": "RAU30",
         "houseNumber": 1,
         "parkingNumber": 15,
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 16,
