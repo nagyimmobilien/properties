@@ -45,19 +45,6 @@
         "linkToProject": "https://becsingatlan.com/pages/fleischmanngasse-6/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/fleischmanngasse-6-1536x864.png",
         "isRaiffeisenWohnBauProject": false
-    },
-    {
-        "id": "3",
-        "district": "4. kerület",
-        "name": "Viktorgasse 14",
-        "description": "Eladó 7 db új építésű tetőtéri lakás és 5 db teljesen felújított, régi építésű lakás a 4. kerületben (Wieden), a Schloss Belvedere közelében.",
-        "numberOfApartments": "27 lakás",
-        "sizeRangeOfApartments": "33-193 m²",
-        "roomRangeOfApartments": "1-6 szoba",
-        "numberOfParkingSpaces": "10 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/viktorgasse-14/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Viktorgasse-Allgemein_09.jpg",
-        "isRaiffeisenWohnBauProject": false
     }
 ]
 },
@@ -75,6 +62,24 @@
         "numberOfParkingSpaces": "nincs garázs",
         "linkToProject": "https://becsingatlan.com/pages/bernardgasse-27/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/12/bernadgasse-27.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
+},
+{
+    "district": "9. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "9. kerület",
+        "name": "Augasse 17",
+        "description": "Új építésű társasház a 9. kerület (Alsergrund) központi részén, az U4-es és U6-os metró Spittelau megállójától mindössze néhány perc sétára.",
+        "numberOfApartments": "81 lakás",
+        "sizeRangeOfApartments": "39-163 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "30 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/augasse-17/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/augasse_17.png",
         "isRaiffeisenWohnBauProject": false
     }
     ]
@@ -176,19 +181,6 @@
         "isRaiffeisenWohnBauProject": false
     },
     {
-        "id": "2",
-        "district": "14. kerület",
-        "name": "Felbigergasse 100",
-        "description": "Új építésű lakókomplexum 14 db kiváló beosztású, esztétikus lakással. A földszinti lakásokhoz kert, az emeleti lakásokhoz terasz vagy erkély is tartozik.",
-        "numberOfApartments": "14 lakás",
-        "sizeRangeOfApartments": "41-76 m²",
-        "roomRangeOfApartments": "2-3 szoba",
-        "numberOfParkingSpaces": "20 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/felbigergasse-100/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Uj-epitesu-ingatlan-Becs-14.-kerulet-1536x864.png",
-        "isRaiffeisenWohnBauProject": false
-    },
-    {
         "id": "3",
         "district": "14. kerület",
         "name": "Flötzersteig 225",
@@ -199,19 +191,6 @@
         "numberOfParkingSpaces": "13 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/flotzersteig-225/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/flotzersteig-225-1536x864.png",
-        "isRaiffeisenWohnBauProject": false
-    },
-    {
-        "id": "4",
-        "district": "14. kerület",
-        "name": "Hütteldorfer Straße 269-271",
-        "description": "Új építésű lakókomplexum 22 db lakással a 14. kerület zöldövezeti részén. A földszinti lakásokhoz kert, az emeleti lakásokhoz erkély vagy terasz is tartozik.",
-        "numberOfApartments": "22 lakás",
-        "sizeRangeOfApartments": "31-105 m²",
-        "roomRangeOfApartments": "1-4 szoba",
-        "numberOfParkingSpaces": "20 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/hutteldorfer-strase-269-271/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Foto-15.04.24-09-57-50-1536x1152.jpg",
         "isRaiffeisenWohnBauProject": false
     }
     ]
@@ -341,6 +320,19 @@
     {
         "id": "1",
         "district": "22. kerület",
+        "name": "Erzherzog-Karl-Strasse 74",
+        "description": "Új építésű társasház a 22. kerület (Donaustadt) központi részén, az Alte Donau-holtág és U1 Kagran/Donauzentrum közelében.",
+        "numberOfApartments": "33 lakás",
+        "sizeRangeOfApartments": "33-122 m²",
+        "roomRangeOfApartments": "1-5 szoba",
+        "numberOfParkingSpaces": "18 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/erzherzog-karl-strasse-74/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/erzherzog_74.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "2",
+        "district": "22. kerület",
         "name": "Arakawastraße 3/Tokiostraße 5",
         "description": "Új építésű társasház 50 db lakással a 22. kerület csendes zöldövezeti részén az Alte Donau-holtágtól mindössze néhány perc sétára.",
         "numberOfApartments": "50 lakás",
@@ -352,7 +344,7 @@
         "isRaiffeisenWohnBauProject": false
     },
     {
-        "id": "2",
+        "id": "3",
         "district": "22. kerület",
         "name": "Klenaugasse 3",
         "description": "Új építésű társasház 23 db lakással és 5 db városi házzal a 22. kerület frekventált részén az U1 Kagraner Platz megállótól mindössze pár perc sétára.",
