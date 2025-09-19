@@ -357,36 +357,5 @@
         "isRaiffeisenWohnBauProject": true
     }
     ]
-},
-{
-    "district": "23. kerület",
-    "projects": [
-    {
-        "id": "1",
-        "district": "23. kerület",
-        "name": "Basler Gasse 5",
-        "description": "Új építésű társasház 22 db lakással a 23. kerületben a Wienerberger-tó és a Shopping City Süd közelében!",
-        "numberOfApartments": "22 lakás",
-        "sizeRangeOfApartments": "40-80 m²",
-        "roomRangeOfApartments": "1-4 szoba",
-        "numberOfParkingSpaces": "11 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/basler-gasse-5/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/basler-gasse-5-1536x864.png",
-        "isRaiffeisenWohnBauProject": false
-    },
-    {
-        "id": "2",
-        "district": "23. kerület",
-        "name": "Wettengelgasse 2",
-        "description": "Új építésű társasház 7 db lakással a 23. kerületben!",
-        "numberOfApartments": "7 lakás",
-        "sizeRangeOfApartments": "46-77 m²",
-        "roomRangeOfApartments": "2-3 szoba",
-        "numberOfParkingSpaces": "3 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/wettengelgasse-2/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/wettengelgasse-2-1536x864.png",
-        "isRaiffeisenWohnBauProject": false
-    }
-    ]
 }
 ]
