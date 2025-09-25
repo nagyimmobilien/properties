@@ -124,10 +124,10 @@
         "projectAcronym": "KLE3",
         "houseNumber": "1",
         "parkingNumber": 13,
-        "listingPriceForInvestors": "€ 22 490,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 14,
