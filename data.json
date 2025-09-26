@@ -373,6 +373,19 @@
         "linkToProject": "https://becsingatlan.com/pages/klenaugasse-3/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/03/klenaugasse_3.png",
         "isRaiffeisenWohnBauProject": true
+    },
+    {
+        "id": "4",
+        "district": "22. kerület",
+        "name": "Wagramer Strasse 113",
+        "description": "Új építésű társasház 52 lakással a 22. kerület (Donaustadt) frekventált részén található a Donau Zentrumtól mindössze néhány perc sétára.",
+        "numberOfApartments": "52 lakás",
+        "sizeRangeOfApartments": "39-89 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "14 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/wagramer-strasse-113/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/wagramer_113.png",
+        "isRaiffeisenWohnBauProject": false
     }
     ]
 }
