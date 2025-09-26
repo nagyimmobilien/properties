@@ -49,6 +49,24 @@
 ]
 },
 {
+    "district": "6. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "6. kerület",
+        "name": "Gumpendorfer Strasse 60",
+        "description": "Eladó 70 db lakás és 3 üzlethelyiség 2 revitalizált és egy új építésű társasházban a 4. kerületben a bécsi főpályaudvartól mindössze néhány perc sétára.",
+        "numberOfApartments": "56 lakás",
+        "sizeRangeOfApartments": "36-79 m²",
+        "roomRangeOfApartments": "1-3 szoba",
+        "numberOfParkingSpaces": "nincs parkoló",
+        "linkToProject": "https://becsingatlan.com/pages/favoritenstrasse-58-60/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/06/1040_FAV58_Cover.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+]
+},
+{
     "district": "7. kerület",
     "projects": [
     {
