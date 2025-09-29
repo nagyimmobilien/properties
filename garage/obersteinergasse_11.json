@@ -1,0 +1,522 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "1",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "2",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "3",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "3",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "4",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "4",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "5",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "5",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 45 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "6",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "6",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "7",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "7",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 30 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "8",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "8",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "9",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "9",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "10",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "10",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "11",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "11",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "12",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "12",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "13",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "13",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 45 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "14",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "14",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 45 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "15",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "15",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "16",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "16",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "17",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "17",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "18",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "18",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "19",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "19",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 45 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "20",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "20",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 45 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "21",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "21",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "22",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "22",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "23",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "23",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "24",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "24",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "25",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "25",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "26",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "26",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "27",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "27",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "28",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "28",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "29",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "29",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "30",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "30",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "31",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "31",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "32",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "32",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "33",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "33",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "34",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "34",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "35",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "35",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "36",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "36",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "37",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "37",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "38",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "38",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "39",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "39",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "40",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "40",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "41",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "41",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "42",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "42",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "43",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "43",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "44",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "44",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "45",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "45",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "46",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "46",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
+        "status": "Eladva"
+    },
+    {
+        "id": "47",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "47",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "48",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "48",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "49",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "49",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "50",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "50",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "51",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "51",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 55 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "52",
+        "projectAcronym": "OBE11",
+        "houseNumber": "1",
+        "parkingNumber": "52",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "€ 58 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
