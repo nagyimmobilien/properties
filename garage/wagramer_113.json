@@ -1,27 +1,27 @@
 [
     {
         "id": "1",
-        "projectAcronym": "wAG 113",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "1",
         "listingPriceForInvestors": "-",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
+        "status": "Kiadva"
     },
     {
         "id": "2",
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "2",
-        "listingPriceForInvestors": "-",
+        "listingPriceForInvestors": "€ 30 000,00 + 20% ÁFA",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
+        "status": "Elérhető"
     },
     {
         "id": "3",
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "3",
         "listingPriceForInvestors": "-",
@@ -31,7 +31,7 @@
     },
     {
         "id": "4",
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "4",
         "listingPriceForInvestors": "-",
@@ -41,17 +41,17 @@
     },
     {
         "id": "5",
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "5",
-        "listingPriceForInvestors": "-",
+        "listingPriceForInvestors": "€ 30 000,00 + 20% ÁFA",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
+        "status": "Elérhető"
     },
     {
         "id": 6,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "6",
         "listingPriceForInvestors": "-",
@@ -61,17 +61,17 @@
     },
     {
         "id": 7,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "7",
-        "listingPriceForInvestors": "-",
+        "listingPriceForInvestors": "€ 30 000,00 + 20% ÁFA",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
+        "status": "Elérhető"
     },
     {
         "id": 8,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "8",
         "listingPriceForInvestors": "-",
@@ -81,47 +81,47 @@
     },
     {
         "id": 9,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "9",
-        "listingPriceForInvestors": "-",
+        "listingPriceForInvestors": "€ 30 000,00 + 20% ÁFA",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
+        "status": "Elérhető"
     },
     {
         "id": 10,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
-        "parkingNumber": "10 (TOP 29)",
-        "listingPriceForInvestors": "€ 31 130,00",
-        "listingPriceForPersonalUse": "€ 35 000,00",
-        "commonCharges": "€ 17,19",
+        "parkingNumber": "10",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
+        "commonCharges": "-",
         "status": "Elérhető"
     },
     {
         "id": 11,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "11",
         "listingPriceForInvestors": "-",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
+        "status": "Kiadva"
     },
     {
         "id": 12,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "12",
         "listingPriceForInvestors": "-",
         "listingPriceForPersonalUse": "-",
-        "commonCharges": "-",
+        "commonCharges": "Kiadva",
         "status": "Eladva"
     },
     {
         "id": 13,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "13",
         "listingPriceForInvestors": "-",
@@ -131,82 +131,12 @@
     },
     {
         "id": 14,
-        "projectAcronym": "VER17",
+        "projectAcronym": "WAG113",
         "houseNumber": "1",
         "parkingNumber": "14",
-        "listingPriceForInvestors": "-",
+        "listingPriceForInvestors": "€ 30 000,00 + 20% ÁFA",
         "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Eladva"
-    },
-    {
-        "id": 15,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "15",
-        "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "-",
-        "commonCharges": "-",
-        "status": "Eladva"
-    },
-    {
-        "id": 16,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "16",
-        "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "-",
-        "commonCharges": "-",
-        "status": "Eladva"
-    },
-    {
-        "id": 17,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "17",
-        "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "-",
-        "commonCharges": "-",
-        "status": "Eladva"
-    },
-    {
-        "id": 18,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "18 (TOP 38)",
-        "listingPriceForInvestors": "€ 31 130,00",
-        "listingPriceForPersonalUse": "€ 35 000,00",
-        "commonCharges": "€ 17,19",
         "status": "Elérhető"
-    },
-    {
-        "id": 19,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "19 (TOP 42)",
-        "listingPriceForInvestors": "€ 31 130,00",
-        "listingPriceForPersonalUse": "€ 35 000,00",
-        "commonCharges": "€ 17,19",
-        "status": "Elérhető"
-    },
-    {
-        "id": 20,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "20 (TOP 45)",
-        "listingPriceForInvestors": "€ 31 130,00",
-        "listingPriceForPersonalUse": "€ 35 000,00",
-        "commonCharges": "€ 17,19",
-        "status": "Elérhető"
-    },
-    {
-        "id": 21,
-        "projectAcronym": "VER17",
-        "houseNumber": "1",
-        "parkingNumber": "21",
-        "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "-",
-        "commonCharges": "-",
-        "status": "Eladva"
     }
 ]
