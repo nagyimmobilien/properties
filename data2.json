@@ -188,19 +188,6 @@
     {
         "id": "1",
         "district": "14. kerület",
-        "name": "Ameisgasse 28",
-        "description": "Új építésű lakókomplexum 14 db kiváló beosztású, esztétikus lakással. A földszinti lakásokhoz kert, az emeleti lakásokhoz terasz vagy erkély is tartozik.",
-        "numberOfApartments": "29 lakás",
-        "sizeRangeOfApartments": "39-111 m²",
-        "roomRangeOfApartments": "1-3 szoba",
-        "numberOfParkingSpaces": "16 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/ameisgasse-28/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Ameisgasse-28-1536x864.png",
-        "isRaiffeisenWohnBauProject": false
-    },
-    {
-        "id": "3",
-        "district": "14. kerület",
         "name": "Flötzersteig 225",
         "description": "Új építésű lakókomplexum 22 db lakással a 14. kerület zöldövezeti részén. A földszinti lakásokhoz kert, az emeleti lakásokhoz erkély vagy terasz is tartozik.",
         "numberOfApartments": "20 lakás",
