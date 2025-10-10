@@ -292,19 +292,6 @@
         "isRaiffeisenWohnBauProject": false
     },
     {
-        "id": "5",
-        "district": "19. kerület",
-        "name": "Paradisgasse 24",
-        "description": "Új építésű lakókomplexum a 19. kerület zöldövezeti részén egy csendes zsákutcában, ahonnan exkluzív kilátás nyílik Bécsre és a döblingi szőlőhegyekre.",
-        "numberOfApartments": "47 lakás",
-        "sizeRangeOfApartments": "58-146 m²",
-        "roomRangeOfApartments": "2-5 szoba",
-        "numberOfParkingSpaces": "31 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/paradisgasse-24/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/10/Paradisgasse-24-1536x864.png",
-        "isRaiffeisenWohnBauProject": true
-    },
-    {
         "id": "6",
         "district": "19. kerület",
         "name": "Raffelspergergasse 26",
