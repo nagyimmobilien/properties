@@ -98,7 +98,7 @@
         "numberOfParkingSpaces": "30 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/augasse-17/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/augasse_17.png",
-        "isRaiffeisenWohnBauProject": true
+        "isRaiffeisenWohnBauProject": false
     }
     ]
 },
@@ -237,6 +237,24 @@
     ]
 },
 {
+    "district": "17. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "17. kerület",
+        "name": "Blumengasse 31",
+        "description": "Új építésű társasház a 17. kerület frekventált részén, az U6-os metró Alser Straße megállójától mindössze néhány perc sétára.",
+        "numberOfApartments": "19 lakás",
+        "sizeRangeOfApartments": "31-89 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "6 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/blumengasse-31/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/10/blumengasse_31_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
+},
+{
     "district": "19. kerület",
     "projects": [
     {
@@ -312,19 +330,6 @@
     {
         "id": "1",
         "district": "22. kerület",
-        "name": "Erzherzog-Karl-Strasse 74",
-        "description": "Új építésű társasház a 22. kerület (Donaustadt) központi részén, az Alte Donau-holtág és U1 Kagran/Donauzentrum közelében.",
-        "numberOfApartments": "33 lakás",
-        "sizeRangeOfApartments": "33-122 m²",
-        "roomRangeOfApartments": "1-5 szoba",
-        "numberOfParkingSpaces": "18 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/erzherzog-karl-strasse-74/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/erzherzog_74.png",
-        "isRaiffeisenWohnBauProject": false
-    },
-    {
-        "id": "2",
-        "district": "22. kerület",
         "name": "Arakawastraße 3/Tokiostraße 5",
         "description": "Új építésű társasház 50 db lakással a 22. kerület csendes zöldövezeti részén az Alte Donau-holtágtól mindössze néhány perc sétára.",
         "numberOfApartments": "50 lakás",
@@ -336,12 +341,25 @@
         "isRaiffeisenWohnBauProject": false
     },
     {
+        "id": "2",
+        "district": "22. kerület",
+        "name": "Erzherzog-Karl-Strasse 74",
+        "description": "Új építésű társasház a 22. kerület (Donaustadt) központi részén, az Alte Donau-holtág és U1 Kagran/Donauzentrum közelében.",
+        "numberOfApartments": "33 lakás",
+        "sizeRangeOfApartments": "33-122 m²",
+        "roomRangeOfApartments": "1-5 szoba",
+        "numberOfParkingSpaces": "18 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/erzherzog-karl-strasse-74/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/erzherzog_74.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
         "id": "3",
         "district": "22. kerület",
         "name": "Klenaugasse 3",
         "description": "Új építésű társasház 23 db lakással és 5 db városi házzal a 22. kerület frekventált részén az U1 Kagraner Platz megállótól mindössze pár perc sétára.",
         "numberOfApartments": "28 lakás",
-        "sizeRangeOfApartments": "30-8120 m²",
+        "sizeRangeOfApartments": "30-81 m²",
         "roomRangeOfApartments": "1-4 szoba",
         "numberOfParkingSpaces": "17 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/klenaugasse-3/",
@@ -350,6 +368,19 @@
     },
     {
         "id": "4",
+        "district": "22. kerület",
+        "name": "Ludwig-Reindl-Gasse 1",
+        "description": "Új építésű társasház a 22. kerület közkedvelt részén a Gewerbepark Stadlau bevásárlóközpontszomszédságában.",
+        "numberOfApartments": "156 lakás",
+        "sizeRangeOfApartments": "30-108 m²",
+        "roomRangeOfApartments": "1-5 szoba",
+        "numberOfParkingSpaces": "100 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/ludwig-reindl-gasse-1/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/03/klenaugasse_3.png",
+        "isRaiffeisenWohnBauProject": true
+    },
+    {
+        "id": "5",
         "district": "22. kerület",
         "name": "Wagramer Strasse 113",
         "description": "Új építésű társasház 52 lakással a 22. kerület (Donaustadt) frekventált részén található a Donau Zentrumtól mindössze néhány perc sétára.",

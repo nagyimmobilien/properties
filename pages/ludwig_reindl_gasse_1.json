@@ -1,0 +1,16 @@
+{
+    "projectName": "Ludwig-Reindl-Gasse 1",
+    "projectDescription": "Ez az új építésű társasház a 22. kerület (Donaustadt) közkedvelt részén található, a Gewerbepark Stadlau bevásárlókomplexum közvetlen szomszédságában. A társasházban 8 emeleten összesen 156 db lakás került kialakításra. A kínálatban 1 - 5 szobás, 30 - 108 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz, erkély vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 100 db parkoló áll a lakók rendelkezésére.",
+    "projectAddress": "Ludwig-Reindl-Gasse 1",
+    "projectInformation": ["156 db lakás", "kb. 30-108 m²", "1-5 szoba"],
+    "projectInfrastructure": ["100 db parkolóhely", "fitneszterem", "jógaterem", "kerékpár-, és babakocsitároló", "tetőterasz kiskertekkel"],
+    "projectEnergyCertificate": ["HWB: 20,3 kWh/m²a", "fGEE: 0,70"],
+    "projectStatus": ["2026 elején kezdik az építkezést", "várható befejezés 2027 vége"],
+    "projectMaker": "",
+    "projectFeatures": ["A lakásokban korszerű, háromrétegű hőszigetelő üvegezéssel ellátott műanyag nyílászárók kerülnek beépítésre, melyek külső alumínium borítással és integrált, elektromos vezérlésű alumínium redőnnyel rendelkeznek. Igény esetén szúnyogháló is beszerelhető.",
+"A lakóterekben exkluzív tölgyfa parketta, míg a vizes helyiségekben elegáns greslap burkolat biztosítja a modern és időtálló megjelenést, amelyet a kellemes padlófűtés és a praktikus fürdőszobai törölközőszárítók tesznek teljessé. A fűtést és a használati melegvíz előállítását távfűtéses rendszer szolgáltatja.",
+"Az erkélyes lakások saját napelemes rendszerrel rendelkeznek, amely közvetlenül a lakás hálózatába táplálja az energiát. Emellett a társasház tetején is elhelyezésre kerül egy központi napelemes rendszer, amely a közös épülethálózatot látja el villamos energiával.",
+"A társasház lakói számára rendelkezésre áll egy 70 m²-es fitneszterem és külön jógaterem. A mélygarázsban összesen 100 db, extra széles (265 cm) parkolóhely található, amelyek elektromos töltőállomással is felszerelhetők. Emellett a földszinten külön kerékpártároló helyiség biztosít helyet akár 300 kerékpárnak és 30 teherkerékpárnak.",
+"A közös használatú tetőteraszon kiskertek kerülnek kialakításra, míg minden emeleten több tárolóhelyiség is rendelkezésre áll, amelyek szintén megvásárolhatók."],
+    "projectLocation": "A társasház ideális lokációval rendelkezik, a mindennapi élethez szükséges üzletek és szolgáltatások (pl. Hofer, Penny, Billa stb.) könnyedén gyalogosan elérhetők. Mindössze 1 perc sétára található egy buszmegálló, ahonnan csupán 3 megállóra található az U1-es metró Kagraner Platz megállója, innen kb. 20 perc alatt a belvárosba lehet jutni."
+}
