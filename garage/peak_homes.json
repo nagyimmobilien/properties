@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "projectAcronym": "PEA1",
+        "houseNumber": "1",
+        "parkingNumber": "16",
+        "listingPriceForInvestors": "€ 35 455,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": "2",
+        "projectAcronym": "PEA1",
+        "houseNumber": "1",
+        "parkingNumber": "18",
+        "listingPriceForInvestors": "€ 35 455,00",
+        "listingPriceForPersonalUse": "€ 39 000,00",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
