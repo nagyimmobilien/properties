@@ -1,0 +1,17 @@
+{
+    "projectName": "Elizabeth-T.-Spira-Promenade 4",
+    "projectDescription": "Ez az új építésű társasház a 3. kerület (Landstraße) frekventált részén található, a Schweizergarten szomszédságában. A társasház egy 22 társasházból álló komplexum részeként épült. A társasházban 11 emeleten összesen 67 db lakás került kialakításra. A kínálatban 1,5 - 5 szobás, 32-101 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz terasz vagy erkély, a földszinti lakásokhoz saját kert is tartozik. A társasház mélygarázsában összesen 29 db parkoló áll a lakók rendelkezésére.",
+    "projectAddress": "Elizabeth-T.-Spira-Promenade 4",
+    "projectInformation": ["67 db lakás", "kb. 32-101 m²", "1,5-5 szoba"],
+    "projectInfrastructure": ["29 db parkolóhely", "közösségi irodahelyiség", "közösségi terem", "kerékpár-, és babakocsitároló", "tetőterasz", "csomagbox"],
+    "projectEnergyCertificate": ["HWB: 32,6 kWh/m²a", "fGEE: 0,74"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A lakóterekben elegáns tölgyfa parketta, míg a vizes helyiségekben időtálló greslap burkolat biztosítja az exkluzív megjelenést. A háromrétegű, hőszigetelő üvegezésű fa-alumínium ablakok külső, elektromosan működtethető redőnyökkel egészülnek ki, amelyek tovább növelik a komfortérzetet és az energiahatékonyságot.",
+        "A lakások fűtését és a használati melegvíz előállítását távfűtés és hőszivattyús rendszer kombinációja biztosítja. Az optimális hőmérsékletet a betonmag-aktiválással működő mennyezetfűtés és -hűtés, valamint a külső árnyékolók garantálják, amelyek együtt gondoskodnak a kellemes beltéri klímáról egész évben.",
+        "Az épület kiemelkedő energiahatékonyságát és fenntarthatóságát az ÖGNI Gold tanúsítvány is igazolja.",
+        "A lakók rendelkezésére áll egy közös használatú tetőterasz, egy közösségi terem beépített konyhával, egy közösségi irodahelyiség, egy kerékpár-, és babakocsitároló illetve egy csomagbox a rendelések biztonságos kézbesítésére."
+    ],
+    "projectLocation": "A társasház nagyszerű lokációval rendelkezik, a mindennapi élethez szükséges üzletek (pl. Billa, dm, gyógyszertár stb.) könnyedén gyalogosan elérhetők. A társasház-komplexum középső részén egy hatalmas park került kialakításra, amely alkalmas a szabadidő eltöltésére, sportolásra vagy akár kutyasétáltatásra. Tömegközlekedési lehetőségek is ideálisak, a társasháztól mindössze pár perc sétára található a 18-as villamos megállója, illetve az S7-es gyorsvonat megállója."
+}
