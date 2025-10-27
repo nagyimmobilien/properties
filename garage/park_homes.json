@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "1",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "2",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "2",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "3",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "3",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "4",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "5",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "5",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "14",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "6",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "15",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "7",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "16",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "8",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "19",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "9",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "20",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "10",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "31",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "11",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "33",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "12",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "34",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "13",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "35",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "14",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "36",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "15",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "37",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "16",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "38",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Eladva"
+  },
+  {
+    "id": "17",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "40",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "18",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "41",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "19",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "42",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "20",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "43",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "21",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "44",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "22",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "45",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "23",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "46",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "24",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "47",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "25",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "48",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  },
+  {
+    "id": "26",
+    "projectAcronym": "PAR1",
+    "houseNumber": "1",
+    "parkingNumber": "52",
+    "listingPriceForInvestors": "€ 40 455,00",
+    "listingPriceForPersonalUse": "€ 44 500,00",
+    "commonCharges": "-",
+    "status": "Elérhető"
+  }
+]
