@@ -1,0 +1,16 @@
+{
+    "projectName": "Leo-Perutz-Promenade 2",
+    "projectDescription": "Ez az új építésű projekt a 3. kerület (Landstraße) frekventált részén található, a Schweizergarten és a Belvedere-kastély szomszédságában. A projekt keretében két társasház épül, illetve 4 db kétszintes városi ház. A projekt egy 22 társasházból álló komplexum részeként épült. A társasházakban 10 emeleten összesen 135 db lakás került kialakításra. A kínálatban 1,5 - 5 szobás, 34 - 167 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz erkély, terasz vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasházak közös mélygarázsában összesen 53 db parkoló áll a lakók rendelkezésére.",
+    "projectAddress": "Leo-Perutz-Promenade 2",
+    "projectInformation": ["135 db lakás", "kb. 34-167 m²", "1,5-5 szoba"],
+    "projectInfrastructure": ["53 db parkolóhely", "közösségi irodahelyiség", "közösségi terem", "kerékpár-, és babakocsitároló", "tetőterasz", "csomagbox"],
+    "projectEnergyCertificate": ["HWB: 23,7 kWh/m²a", "fGEE: 0,70"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "Az elegáns tölgyfa parketta a lakóterekben meleg, természetes hangulatot teremt, míg a minőségi greslap a vizes helyiségekben tiszta, modern hatást biztosít. A fa-alumínium ablakok háromrétegű, hőszigetelő üvegezéssel és külső árnyékolókkal rendelkeznek.",
+        "A fűtés és a melegvíz-ellátás geotermikus energiával, hőszivattyús rendszereken keresztül valósul meg, részben pedig távfűtési csatlakozás révén. A lakások fűtése mennyezetfűtéssel történik, betonmag-aktiválás alkalmazásával.",
+        "A lakók rendelkezésére áll több közös használatú helyiség, többek között a tetőterasz, amely ülőalkalmatosságokkal és kisebb, fásított zöld szigetekkel van kialakítva. Emellett rendelkezésre áll egy közösségi irodahelyiség, egy beépített konyhával és saját WC-vel felszerelt közösségi helyiség/rendezvényterem, valamint egy mosókonyha és egy babakocsi- és kerékpártároló."
+    ],
+    "projectLocation": "A társasház nagyszerű lokációval rendelkezik, a mindennapi élethez szükséges üzletek (pl. Billa, dm, gyógyszertár stb.) könnyedén gyalogosan elérhetők. A társasház-komplexum középső részén egy hatalmas park került kialakításra, amely alkalmas a szabadidő eltöltésére, sportolásra vagy akár kutyasétáltatásra. Tömegközlekedési lehetőségek is ideálisak, a társasháztól mindössze pár perc sétára található a 18-as villamos megállója, illetve az S7-es gyorsvonat megállója."
+}
