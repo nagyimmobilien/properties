@@ -14,7 +14,33 @@
         "linkToProject": "https://becsingatlan.com/pages/ungarngasse-16/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/01/ungarngasse-16.png",
         "isRaiffeisenWohnBauProject": false
-    }
+    },
+    {
+        "id": "2",
+        "district": "3. kerület",
+        "name": "Elizabeth-T.-Spira-Promenade 4",
+        "description": "Új építésű társasáház a 3. kerület (Landstraße) központi részén, a Schweizergarten közvetlen közelében!",
+        "numberOfApartments": "67 lakás",
+        "sizeRangeOfApartments": "32-101 m²",
+        "roomRangeOfApartments": "1.5-5 szoba",
+        "numberOfParkingSpaces": "29 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/elizabeth-t-spira-promenade-4/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/10/Frame-164.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "3",
+        "district": "3. kerület",
+        "name": "Leo-Perutz-Promenade 2",
+        "description": "Új építésű társasház 135 db lakással a Belvedere-kastély és a Schweizergarten szomszédságában!",
+        "numberOfApartments": "135 lakás",
+        "sizeRangeOfApartments": "34-167 m²",
+        "roomRangeOfApartments": "1.5-5 szoba",
+        "numberOfParkingSpaces": "53 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/leo-perutz-promenade-2",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/01/ungarngasse-16.png",
+        "isRaiffeisenWohnBauProject": false
+    }  
     ]
 },
 {
