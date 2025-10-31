@@ -89,6 +89,19 @@
         "linkToProject": "https://becsingatlan.com/pages/gumpendorfer-strasse-60",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/gumpendorfer_strasse_60.png",
         "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "2",
+        "district": "6. kerület",
+        "name": "Millergasse 34",
+        "description": "Új építésű társasház 20 db lakással és 3 db városi házzal a népszerű Mariahilfer Strasse és a Westbahnhof közelében!",
+        "numberOfApartments": "20 lakás",
+        "sizeRangeOfApartments": "35-88 m²",
+        "roomRangeOfApartments": "2-3 szoba",
+        "numberOfParkingSpaces": "5 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/millergasse-34",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/10/millergasse-34-thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
     }
 ]
 },

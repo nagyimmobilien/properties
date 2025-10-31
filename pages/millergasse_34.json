@@ -1,0 +1,16 @@
+{
+    "projectName": "Millergasse 34",
+    "projectDescription": "Ez az  új építésű (2024) társasház Bécs 6. kerületében (Mariahilf), a városrész központi részén található, egy csendes mellékutcában, amely merőlegesen csatlakozik a Mariahilfer Strasséhoz. A társasházban összesen 20 db lakás és 3 db városi ház került kialakításra. A kínálatban 2 - 3 szobás, 35 - 88 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz erkély vagy loggia, a tetőtéri lakásokhoz tetőterasz is tartozik. A belső udvarban 5 db parkoló áll a lakók rendelkezésére. A társasház elkészült, a lakások azonnal költözhető állapotban vannak. ",
+    "projectAddress": "Millergasse 34",
+    "projectInformation": ["20 db lakás", "3 db városi ház", "kb. 35-88 m²", "2-3 szoba"],
+    "projectInfrastructure": ["5 db parkolóhely", "játszótér"],
+    "projectEnergyCertificate": ["HWB: 30,9 kWh/m²a", "fGEE: 0,76"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A lakóterekben (nappali, hálószoba, konyha stb.) elegáns, ragasztott tölgyfa parketta, míg a vizes helyiségekben nagyméretű, minőségi greslap burkolat biztosítja a modern és letisztult megjelenést. A műanyag-alumínium ablakok háromrétegű, hőszigetelő üvegezéssel és külső árnyékolókkal is rendelkeznek.",
+        "A fűtés és a használati melegvíz előállítása központi gázfűtéses rendszeren keresztül valósul meg, a lakások fűtése pedig padlófűtéssel történik.",
+        "Minden lakáshoz tartozik egy saját használatú, zárható tárolóhelyiség, illetve a lakók rendelkezésére áll egy közös használatú játszótér."
+    ],
+    "projectLocation": "A társasház kiemelkedő infrastruktúrával rendelkezik, a mindennapi élethez szükséges üzletek - Hofer, Billa, pékség stb. - pár perc alatt gyalogosan elérhetők. A Mariahilfer Strasse és a Westbahnhof közelségének köszönhetően a tömegközlekedési lehetőségek szintén nagyszerűek mindössze 5 perc alatt elérhetők az U3-as és az U6-os metró megállói, emellett a közelben 6 különböző villamosmegálló is található, így a város bármely pontjára könnyedén el lehet jutni."
+}
