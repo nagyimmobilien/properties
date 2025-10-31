@@ -294,6 +294,24 @@
     ]
 },
 {
+    "district": "18. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "18. kerület",
+        "name": "Blumengasse 31",
+        "description": "Új építésű társasház a 18. kerület központi részén az U6-os metró AKH megállójától mindössze pár perc sétára!",
+        "numberOfApartments": "18 lakás",
+        "sizeRangeOfApartments": "47-121 m²",
+        "roomRangeOfApartments": "1-3 szoba",
+        "numberOfParkingSpaces": "13 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/staudgasse-40",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/10/staudgasse_40_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
+},
+{
     "district": "19. kerület",
     "projects": [
     {

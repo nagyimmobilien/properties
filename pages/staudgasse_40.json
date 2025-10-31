@@ -1,0 +1,17 @@
+{
+    "projectName": "Staudgasse 40",
+    "projectDescription": "Ez az új építésű (2024) társasház Bécs 18. kerületének (Währing) központi részén található a bécsi központi kórház (AKH) közelében. A társasházban 5 emeleten összesen 18 db lakás került kialakításra. A kínálatban 1 - 3 szobás, 47 - 121 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz erkély vagy loggia, a tetőtéri lakásokhoz tetőterasz is tartozik. A társasház mélygarázsában összesen 13 parkoló áll rendelkezésre. A társasház elkészült, a lakások azonnal költözhető állapotban vannak. ",
+    "projectAddress": "Staudgasse 40",
+    "projectInformation": ["18 db lakás", "kb. 47-121 m²", "1-3 szoba"],
+    "projectInfrastructure": ["13 db parkolóhely", "kerékpár-, és babakocsitároló", "játszótér"],
+    "projectEnergyCertificate": ["HWB: 27,1 kWh/m²a", "fGEE: 0,78"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A lakóhelyiségekben – például a nappaliban, hálószobákban és konyhában – elegáns, ragasztott tölgyfa parketta gondoskodik a természetes, meleg hangulatról, míg a vizes helyiségekben nagyméretű, prémium minőségű greslapok teremtenek modern és letisztult megjelenést.",
+        "A műanyag–alumínium ablakok háromrétegű hőszigetelő üvegezéssel készültek, és elő vannak készítve a külső árnyékolók felszerelésére. A tetőtéri lakások esetében a külső árnyékolók már beépítésre kerültek, illetve előkészítették a klíma beszerelését.",
+        "A fűtés és a használati melegvíz előállítása távfűtéses rendszeren keresztül valósul meg, a lakások fűtése pedig padlófűtéssel történik.",
+        "A lakásokhoz tartozik egy saját használatú pincehelyiség, illetve a lakók rendelkezésére áll egy kerékpár- és babakocsitároló és egy játszótér a belső kertben. A társasház mélygarázsában 13 parkoló áll rendelkezésre, melyek közül 12 duplex parkoló."
+    ],
+    "projectLocation": "A társasház nagyszerű lokációval rendelkezik, a közelben megtalálhatók a mindennapi élethez szükséges üzletek (pl. Billa, Hofer, pékség stb.) és szolgáltatások. Tömegközlekedési lehetőségek tekintetében is ideális a lokáció, az utca végén található a 42-es villamos megállója, illetve az U6-os metró AKH megállója is csupán 9 perc gyalogosan. A közelben több kisebb park is található, melyek alkalmasak a szabadidő eltöltésére vagy sportolásra."
+}
