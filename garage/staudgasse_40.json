@@ -5,9 +5,9 @@
         "houseNumber": "1",
         "parkingNumber": "1",
         "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "€ 35 000,00",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "2",
