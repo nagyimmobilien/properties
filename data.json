@@ -137,7 +137,7 @@
         "numberOfParkingSpaces": "30 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/augasse-17/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/09/augasse_17.png",
-        "isRaiffeisenWohnBauProject": false
+        "isRaiffeisenWohnBauProject": true
     }
     ]
 },
