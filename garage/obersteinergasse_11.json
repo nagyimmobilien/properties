@@ -44,10 +44,10 @@
         "projectAcronym": "OBE11",
         "houseNumber": "1",
         "parkingNumber": "5",
-        "listingPriceForInvestors": "€ 40 050,00",
-        "listingPriceForPersonalUse": "€ 45 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "6",
