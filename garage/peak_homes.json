@@ -4,19 +4,20 @@
         "projectAcronym": "PEA1",
         "houseNumber": "1",
         "parkingNumber": "16",
-        "listingPriceForInvestors": "€ 35 455,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "2",
         "projectAcronym": "PEA1",
         "houseNumber": "1",
         "parkingNumber": "18",
-        "listingPriceForInvestors": "€ 35 455,00",
-        "listingPriceForPersonalUse": "€ 39 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     }
 ]
+
