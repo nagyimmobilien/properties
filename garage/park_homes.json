@@ -94,10 +94,10 @@
     "projectAcronym": "PAR1",
     "houseNumber": "1",
     "parkingNumber": "31",
-    "listingPriceForInvestors": "€ 40 455,00",
-    "listingPriceForPersonalUse": "€ 44 500,00",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
     "commonCharges": "-",
-    "status": "Elérhető"
+    "status": "Eladva"
   },
   {
     "id": "11",
@@ -144,10 +144,10 @@
     "projectAcronym": "PAR1",
     "houseNumber": "1",
     "parkingNumber": "37",
-    "listingPriceForInvestors": "€ 40 455,00",
-    "listingPriceForPersonalUse": "€ 44 500,00",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
     "commonCharges": "-",
-    "status": "Elérhető"
+    "status": "Eladva"
   },
   {
     "id": "16",
