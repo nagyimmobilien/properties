@@ -14,20 +14,20 @@
         "projectAcronym": "ASS2",
         "houseNumber": "1",
         "parkingNumber": "10",
-        "listingPriceForInvestors": "€ 38 300,00",
-        "listingPriceForPersonalUse": "€ 40 500,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 6,
         "projectAcronym": "ASS2",
         "houseNumber": 1,
         "parkingNumber": "12",
-        "listingPriceForInvestors": "€ 39 800,00",
-        "listingPriceForPersonalUse": "€ 42 000,00",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "4",
