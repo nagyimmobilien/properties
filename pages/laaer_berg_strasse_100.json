@@ -1,0 +1,16 @@
+{
+    "projectName": "Laaer-Berg-Straße 100",
+    "projectDescription": "Ez az új építésű, két társasházból álló projekt Bécs 10. kerületének zöldövezeti részén, a Generali Arena szomszédságában található. A két társasházban összesen 54 lakás és 2 üzlethelyiség került kialakításra. A kínálatban 2–4 szobás, 40–112 m² alapterületű lakások szerepelnek. A társasházak közös mélygarázsában összesen 34 parkolóhely áll a lakók rendelkezésére.",
+    "projectAddress": "Laaer-Berg-Straße 100",
+    "projectInformation": ["54 db lakás", "kb. 40-112 m²", "2-4 szoba"],
+    "projectInfrastructure": ["34 db parkolóhely", "közösségi játszótér"],
+    "projectEnergyCertificate": ["HWB: 24,7 kWh/m²a", "fGEE: 0,66"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A lakások kiváló beosztással rendelkeznek, a nyitott terek és a nagyméretű ablakok pedig egyedi otthonélményt kínálnak. A társasházak termikusan aktivált épületszerkezetének köszönhetően a lakások fűtése és hűtése energia- és költséghatékony módon történik, amelyet az intelligens légcsere- és szellőztetőrendszer tesz teljessé. A tetőtéri lakásokban előre telepítették a split klímákat a maximális komfort érdekében.",
+        "A lakóterekben elegáns tölgyfa parketta, a vizes helyiségekben pedig nagytáblás greslap padló- és falburkolat található. A fürdőszobákba zuhanyzó vagy kád került beépítésre, a mosógép-csatlakozás pedig szintén biztosított. A műanyag-alumínium ablakok többrétegű, hőszigetelő üvegezéssel és külső alumínium lamellás árnyékolókkal rendelkeznek.",
+        "Minden lakáshoz tartozik egy praktikus tárolóhelyiség az alagsorban, továbbá a lakók rendelkezésére áll egy közös használatú játszótér is."
+    ],
+    "projectLocation": "A társasház nagyszerű infrastruktúrával rendelkezik: mindössze néhány perc sétára megtalálhatók a mindennapi élethez szükséges üzletek (pl. Spar, Hofer, gyógyszertár stb.) és szolgáltatások. A társasháztól néhány percre található egy buszmegálló, az U1-es metró Altes Landgut megállója pedig legfeljebb 10 perc alatt elérhető gyalogosan. További előny az A23-as autópályaszakasz közelsége, amely hatékony be- és kijutást biztosít a városba."
+}

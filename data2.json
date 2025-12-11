@@ -160,6 +160,19 @@
     {
         "id": "2",
         "district": "10. kerület",
+        "name": "Laaer-Berg-Straße 100",
+        "description": "Új építésű, két társasházból álló projekt 54 lakással a Generali Arena és az U1 Altes Landgut szomszédságában!",
+        "numberOfApartments": "54 lakás",
+        "sizeRangeOfApartments": "40-112 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "34 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/laaer-berg-strasse-100/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/12/laaer-berg-strasse-100-thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "3",
+        "district": "10. kerület",
         "name": "Uhligstrasse 25",
         "description": "Új építésű társasház a 10. kerület családi házas, zöldövezeti részén az U1 metró Neulaa megálló közelében!",
         "numberOfApartments": "15 lakás",
