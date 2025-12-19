@@ -395,6 +395,24 @@
     ]
 },
 {
+    "district": "21. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "21. kerület",
+        "name": "Fahrbachgasse 6-8",
+        "description": "Új építésű társasház 92 db lakással a 21. kerület frekventált részén, a floridsdorfi vasútállomás szomszédságában.",
+        "numberOfApartments": "92 lakás",
+        "sizeRangeOfApartments": "40-113 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "41 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/fahrbachgasse-6/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/12/1210_LAH6_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
+},
+{
     "district": "22. kerület",
     "projects": [
     {

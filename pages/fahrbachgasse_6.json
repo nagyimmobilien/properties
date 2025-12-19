@@ -1,0 +1,15 @@
+{
+    "projectName": "Fahrbachgasse 6-8",
+    "projectDescription": "Ez az új építésű társasház Bécs 21. kerületének frekventált részén helyezkedik el, egy nyugodt, egyirányú forgalommal rendelkező mellékutcában, mindössze pár perc sétára a floridsdorfi vasútállomástól. A társasházban összesen 92 lakás került kialakításra, a kínálatban 2-4 szobás, 40-113 m² alapterületű lakások szerepelnek. A társasház saját mélygarázsában összesen 41 parkolóhely áll a lakók rendelkezésére. A társasház elkészült, azonnal költözhető állapotban van.",
+    "projectAddress": "Fahrbachgasse 6-8",
+    "projectInformation": ["92 db lakás", "kb. 40-113 m²", "2-4 szoba"],
+    "projectInfrastructure": ["41 db parkolóhely", "közösségi helyiség", "kerékpár-, és babakocsitároló", "tetőterasz", "csomagbox"],
+    "projectEnergyCertificate": ["HWB: 22,80 kWh/m²a", "fGEE: 0,71"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A lakások praktikus beosztással rendelkeznek, az elegáns tölgyfa parketta a lakóterekben és a minőségi kerámia padló-, és falburkolat a vizes helyiségekben gondoskodik a meleg, otthonos hangulatról. A fa-alumínium ablakok háromrétegű, hőszigetelő üvegezéssel és külső elektromos működtetésű redőnyökkel is rendelkeznek. A maximális komfortérzetről távfűtésről üzemeltetett padlófűtés gondoskodik, a tetőtéri lakásokban pedig előre telepített split klímaberendezések biztosítják a kellemes hőmérsékletet.",
+        "Minden lakáshoz tartozik egy saját tárolóhelyiség az alagsorban, továbbá a lakók rendelkezésére áll egy kerékpár-, és babakocsitároló, egy közösségi helyiség külön konyhával és mellékhelyiséggel, illetve egy játszótér a belső udvaron."    
+    ],
+    "projectLocation": "A társasház kiváló infrastruktúrával rendelkezik. A floridsdorfi vasútállomás és környéke számos bevásárlási lehetőséget és tömegközlekedési kapcsolatot kínál. A mindennapi élethez szükséges üzletek - pl. Interspar, Penny, Billa - és szolgáltatások könnyedén gyalogosan elérhetők. A társasháztól pár percre található az U6-os metró megállója, emellett több gyorsvonat (S1, S2, S3, S4, S7) és villamosmegálló (25, 26, 30, 31) is rendelkezésre áll, ennek köszönhetően a város bármely pontja gyorsan és kényelmesen elérhető."
+}
