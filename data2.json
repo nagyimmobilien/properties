@@ -75,6 +75,24 @@
 ]
 },
 {
+    "district": "5. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "5. kerület",
+        "name": "Siebenbrunnengasse 44",
+        "description": "Új építésű társasház 67 lakással az 5. kerületben az U4-es metró Pilgramgasse és a Matzleinsdorfer Platz között.",
+        "numberOfApartments": "67 lakás",
+        "sizeRangeOfApartments": "30-220 m²",
+        "roomRangeOfApartments": "2-6 szoba",
+        "numberOfParkingSpaces": "26 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/siebenbrunnengasse-44",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/12/1050_SIE44_WEB_Thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+]
+},
+{
     "district": "6. kerület",
     "projects": [
     {

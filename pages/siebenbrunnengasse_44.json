@@ -1,0 +1,15 @@
+{
+    "projectName": "Siebenbrunnengasse 44",
+    "projectDescription": "Ez az új építésű társasház Bécs 5. kerületének (Margareten) szívében helyezkedik el. A társasházban összesen. A társasházban összesen 67 lakás került kialakításra, a kínálatban 2-6 szobás, 30-220 m² alapterületű lakások szerepelnek. A társasház saját mélygarázsában összesen 26 parkolóhely áll a lakók rendelkezésére. A társasház elkészült, azonnal költözhető állapotban van.",
+    "projectAddress": "Siebenbrunnengasse 44",
+    "projectInformation": ["67 db lakás", "kb. 32-220 m²", "2-6 szoba"],
+    "projectInfrastructure": ["26 db parkolóhely", "közösségi terem", "kerékpár-, és babakocsitároló"],
+    "projectEnergyCertificate": ["HWB: 21,76 kWh/m²a", "fGEE: 0,67"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A padlótól a mennyezetig érő műanyag-alumínium ablakok és az exkluzív tölgyfa parketta kellemes, otthonos hangulatot kölcsönöz a lakásoknak. A maximális komfortot a távfűtéssel üzemeltetett padlófűtés garantálja, míg a tetőtéri lakásokban az előre kiépített split klímaberendezések gondoskodnak az ideális hőmérsékletről.",
+        "A lakásokhoz tartozik egy saját tárolóhelyiség az alagsorban, emellett a lakók rendelkezésére áll egy kerékpár-, és babakocsitároló, illetve egy közösségi helyiség gyerekeknek a közös belső udvaron."
+    ],
+    "projectLocation": "A társasház nagyszerű infrastruktúrával rendelkezik, a közelben megtalálhatók a mindennapi élethez szükséges üzletek (pl. Penny, Billa, gyógyszertár stb.) és szolgáltatások. Tömegközlekedési szempontból is ideális a lokáció több busz-, és villamosmegálló is található a közelben, illetve maximum 10 perc alatt az U4-es metró Pilgramgasse megállója is elérhető. "
+}
