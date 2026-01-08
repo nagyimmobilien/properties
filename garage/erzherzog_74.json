@@ -45,9 +45,9 @@
         "houseNumber": "1",
         "parkingNumber": "5",
         "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "€ 35 000,00",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "6",
@@ -55,9 +55,9 @@
         "houseNumber": "1",
         "parkingNumber": "6",
         "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "€ 35 000,00",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "7",
@@ -95,9 +95,9 @@
         "houseNumber": "1",
         "parkingNumber": "10",
         "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "€ 35 000,00",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "11",
@@ -105,9 +105,9 @@
         "houseNumber": "1",
         "parkingNumber": "11",
         "listingPriceForInvestors": "-",
-        "listingPriceForPersonalUse": "€ 35 000,00",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "12",
