@@ -251,25 +251,7 @@
         "isRaiffeisenWohnBauProject": true
     }
     ]
-},
-{
-    "district": "14. kerület",
-    "projects": [
-    {
-        "id": "1",
-        "district": "14. kerület",
-        "name": "Flötzersteig 225",
-        "description": "Új építésű lakókomplexum 22 db lakással a 14. kerület zöldövezeti részén. A földszinti lakásokhoz kert, az emeleti lakásokhoz erkély vagy terasz is tartozik.",
-        "numberOfApartments": "20 lakás",
-        "sizeRangeOfApartments": "44-95 m²",
-        "roomRangeOfApartments": "2-4 szoba",
-        "numberOfParkingSpaces": "13 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/flotzersteig-225/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/11/flotzersteig-225-1536x864.png",
-        "isRaiffeisenWohnBauProject": false
-    }
-    ]
-},          
+},        
 {
     "district": "15. kerület",
     "projects": [
