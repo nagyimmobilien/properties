@@ -4,8 +4,8 @@
         "projectAcronym": "RAU30",
         "houseNumber": "1",
         "parkingNumber": "1",
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "€ 27 280",
+        "listingPriceForPersonalUse": "€ 30 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -114,8 +114,8 @@
         "projectAcronym": "RAU30",
         "houseNumber": 1,
         "parkingNumber": 12,
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "€ 27 280",
+        "listingPriceForPersonalUse": "€ 30 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -124,8 +124,8 @@
         "projectAcronym": "RAU30",
         "houseNumber": 1,
         "parkingNumber": 13,
-        "listingPriceForInvestors": "€ 27 280,00",
-        "listingPriceForPersonalUse": "€ 30 000,00",
+        "listingPriceForInvestors": "€ 27 280",
+        "listingPriceForPersonalUse": "€ 30 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },

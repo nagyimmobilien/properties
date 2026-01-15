@@ -13,7 +13,7 @@
     "roofTerraceArea": "-",
     "gardenTerraceArea": "-",
     "gardenArea": "-",
-    "sumOfOutsideAreas": "0,00",
+    "sumOfOutsideAreas": "0",
     "sumOfAllAreas": "122,63",
     "listingPriceForInvestors": "-",
     "listingPriceForPersonalUse": "-",
@@ -36,7 +36,7 @@
     "sumOfOutsideAreas": "51,71",
     "sumOfAllAreas": "127,49",
     "listingPriceForInvestors": "€ 430 750,07",
-    "listingPriceForPersonalUse": "€ 447 000,00",
+    "listingPriceForPersonalUse": "€ 447 000",
     "status": "Elérhető"
   },
   {
@@ -56,7 +56,7 @@
     "sumOfOutsideAreas": "21,58",
     "sumOfAllAreas": "71,23",
     "listingPriceForInvestors": "€ 282 221,45",
-    "listingPriceForPersonalUse": "€ 293 000,00",
+    "listingPriceForPersonalUse": "€ 293 000",
     "status": "Elérhető"
   },
   {
@@ -76,7 +76,7 @@
     "sumOfOutsideAreas": "9,22",
     "sumOfAllAreas": "63,46",
     "listingPriceForInvestors": "€ 270 344,01",
-    "listingPriceForPersonalUse": "€ 282 000,00",
+    "listingPriceForPersonalUse": "€ 282 000",
     "status": "Elérhető"
   },
   {
@@ -96,7 +96,7 @@
     "sumOfOutsideAreas": "20,20",
     "sumOfAllAreas": "84,18",
     "listingPriceForInvestors": "€ 350 880,30",
-    "listingPriceForPersonalUse": "€ 365 000,00",
+    "listingPriceForPersonalUse": "€ 365 000",
     "status": "Elérhető"
   },
   {
@@ -156,7 +156,7 @@
     "sumOfOutsideAreas": "4,49",
     "sumOfAllAreas": "59,13",
     "listingPriceForInvestors": "€ 277 801,70",
-    "listingPriceForPersonalUse": "€ 289 000,00",
+    "listingPriceForPersonalUse": "€ 289 000",
     "status": "Elérhető"
   },
   {
@@ -176,7 +176,7 @@
     "sumOfOutsideAreas": "5,92",
     "sumOfAllAreas": "39,07",
     "listingPriceForInvestors": "€ 192 741,34",
-    "listingPriceForPersonalUse": "€ 199 000,00",
+    "listingPriceForPersonalUse": "€ 199 000",
     "status": "Elérhető"
   },
   {
@@ -196,7 +196,7 @@
     "sumOfOutsideAreas": "9,87",
     "sumOfAllAreas": "57,30",
     "listingPriceForInvestors": "€ 255 373,48",
-    "listingPriceForPersonalUse": "€ 265 000,00",
+    "listingPriceForPersonalUse": "€ 265 000",
     "status": "Elérhető"
   },
   {
@@ -216,7 +216,7 @@
     "sumOfOutsideAreas": "8,70",
     "sumOfAllAreas": "62,94",
     "listingPriceForInvestors": "€ 275 768,01",
-    "listingPriceForPersonalUse": "€ 287 000,00",
+    "listingPriceForPersonalUse": "€ 287 000",
     "status": "Elérhető"
   },
   {
@@ -236,7 +236,7 @@
     "sumOfOutsideAreas": "9,28",
     "sumOfAllAreas": "73,79",
     "listingPriceForInvestors": "€ 366 688,93",
-    "listingPriceForPersonalUse": "€ 380 000,00",
+    "listingPriceForPersonalUse": "€ 380 000",
     "status": "Elérhető"
   },
   {
@@ -276,7 +276,7 @@
     "sumOfOutsideAreas": "14,35",
     "sumOfAllAreas": "79,05",
     "listingPriceForInvestors": "€ 367 768,93",
-    "listingPriceForPersonalUse": "€ 382 000,00",
+    "listingPriceForPersonalUse": "€ 382 000",
     "status": "Elérhető"
   },
   {
@@ -288,7 +288,7 @@
     "roomNumber": "2",
     "livingArea": "54,64",
     "loggiaArea": "-",
-    "balconyArea": "3,00",
+    "balconyArea": "3",
     "terraceArea": "6,85",
     "roofTerraceArea": "-",
     "gardenTerraceArea": "-",
@@ -296,7 +296,7 @@
     "sumOfOutsideAreas": "9,85",
     "sumOfAllAreas": "64,49",
     "listingPriceForInvestors": "€ 277 801,70",
-    "listingPriceForPersonalUse": "€ 292 000,00",
+    "listingPriceForPersonalUse": "€ 292 000",
     "status": "Elérhető"
   },
   {
@@ -336,7 +336,7 @@
     "sumOfOutsideAreas": "14,41",
     "sumOfAllAreas": "61,91",
     "listingPriceForInvestors": "€ 265 250,38",
-    "listingPriceForPersonalUse": "€ 275 000,00",
+    "listingPriceForPersonalUse": "€ 275 000",
     "status": "Elérhető"
   },
   {
@@ -356,7 +356,7 @@
     "sumOfOutsideAreas": "8,55",
     "sumOfAllAreas": "62,79",
     "listingPriceForInvestors": "€ 281 192,01",
-    "listingPriceForPersonalUse": "€ 293 000,00",
+    "listingPriceForPersonalUse": "€ 293 000",
     "status": "Elérhető"
   },
   {
@@ -376,7 +376,7 @@
     "sumOfOutsideAreas": "9,29",
     "sumOfAllAreas": "73,80",
     "listingPriceForInvestors": "€ 384 751,73",
-    "listingPriceForPersonalUse": "€ 399 000,00",
+    "listingPriceForPersonalUse": "€ 399 000",
     "status": "Elérhető"
   },
   {
@@ -396,7 +396,7 @@
     "sumOfOutsideAreas": "10,84",
     "sumOfAllAreas": "60,57",
     "listingPriceForInvestors": "€ 297 595,18",
-    "listingPriceForPersonalUse": "€ 308 000,00",
+    "listingPriceForPersonalUse": "€ 308 000",
     "status": "Elérhető"
   },
   {
@@ -416,7 +416,7 @@
     "sumOfOutsideAreas": "14,35",
     "sumOfAllAreas": "79,05",
     "listingPriceForInvestors": "€ 374 238,93",
-    "listingPriceForPersonalUse": "€ 388 000,00",
+    "listingPriceForPersonalUse": "€ 388 000",
     "status": "Elérhető"
   },
   {
@@ -436,7 +436,7 @@
     "sumOfOutsideAreas": "7,40",
     "sumOfAllAreas": "62,04",
     "listingPriceForInvestors": "€ 285 997,70",
-    "listingPriceForPersonalUse": "€ 298 000,00",
+    "listingPriceForPersonalUse": "€ 298 000",
     "status": "Elérhető"
   },
   {
@@ -456,7 +456,7 @@
     "sumOfOutsideAreas": "8,82",
     "sumOfAllAreas": "41,97",
     "listingPriceForInvestors": "€ 214 951,84",
-    "listingPriceForPersonalUse": "€ 222 000,00",
+    "listingPriceForPersonalUse": "€ 222 000",
     "status": "Elérhető"
   },
   {
@@ -476,7 +476,7 @@
     "sumOfOutsideAreas": "14,55",
     "sumOfAllAreas": "62,04",
     "listingPriceForInvestors": "€ 279 441,53",
-    "listingPriceForPersonalUse": "€ 290 000,00",
+    "listingPriceForPersonalUse": "€ 290 000",
     "status": "Elérhető"
   },
   {
@@ -496,7 +496,7 @@
     "sumOfOutsideAreas": "17,26",
     "sumOfAllAreas": "62,24",
     "listingPriceForInvestors": "€ 284 913,15",
-    "listingPriceForPersonalUse": "€ 295 000,00",
+    "listingPriceForPersonalUse": "€ 295 000",
     "status": "Elérhető"
   },
   {
@@ -516,7 +516,7 @@
     "sumOfOutsideAreas": "7,61",
     "sumOfAllAreas": "94,14",
     "listingPriceForInvestors": "€ 543 773,42",
-    "listingPriceForPersonalUse": "€ 562 000,00",
+    "listingPriceForPersonalUse": "€ 562 000",
     "status": "Elérhető"
   },
   {
@@ -536,7 +536,7 @@
     "sumOfOutsideAreas": "22,89",
     "sumOfAllAreas": "117,42",
     "listingPriceForInvestors": "€ 605 390,77",
-    "listingPriceForPersonalUse": "€ 625 000,00",
+    "listingPriceForPersonalUse": "€ 625 000",
     "status": "Elérhető"
   },
   {
@@ -556,7 +556,7 @@
     "sumOfOutsideAreas": "18,36",
     "sumOfAllAreas": "125,82",
     "listingPriceForInvestors": "€ 637 691,11",
-    "listingPriceForPersonalUse": "€ 660 000,00",
+    "listingPriceForPersonalUse": "€ 660 000",
     "status": "Elérhető"
   },
   {
@@ -576,7 +576,7 @@
     "sumOfOutsideAreas": "8,82",
     "sumOfAllAreas": "41,97",
     "listingPriceForInvestors": "€ 221 581,84",
-    "listingPriceForPersonalUse": "€ 229 000,00",
+    "listingPriceForPersonalUse": "€ 229 000",
     "status": "Elérhető"
   },
   {
@@ -596,7 +596,7 @@
     "sumOfOutsideAreas": "14,41",
     "sumOfAllAreas": "61,65",
     "listingPriceForInvestors": "€ 296 866,48",
-    "listingPriceForPersonalUse": "€ 307 000,00",
+    "listingPriceForPersonalUse": "€ 307 000",
     "status": "Elérhető"
   },
   {
@@ -616,7 +616,7 @@
     "sumOfOutsideAreas": "7,48",
     "sumOfAllAreas": "88,17",
     "listingPriceForInvestors": "€ 478 832,09",
-    "listingPriceForPersonalUse": "€ 496 000,00",
+    "listingPriceForPersonalUse": "€ 496 000",
     "status": "Elérhető"
   },
   {
@@ -636,7 +636,7 @@
     "sumOfOutsideAreas": "7,48",
     "sumOfAllAreas": "95,55",
     "listingPriceForInvestors": "€ 505 012,62",
-    "listingPriceForPersonalUse": "€ 524 000,00",
+    "listingPriceForPersonalUse": "€ 524 000",
     "status": "Elérhető"
   },
   {
@@ -656,7 +656,7 @@
     "sumOfOutsideAreas": "104,70",
     "sumOfAllAreas": "179,04",
     "listingPriceForInvestors": "€ 452 300,80",
-    "listingPriceForPersonalUse": "€ 468 000,00",
+    "listingPriceForPersonalUse": "€ 468 000",
     "status": "Elérhető"
   },
   {
@@ -676,7 +676,7 @@
     "sumOfOutsideAreas": "22,14",
     "sumOfAllAreas": "141,30",
     "listingPriceForInvestors": "€ 673 756,67",
-    "listingPriceForPersonalUse": "€ 699 000,00",
+    "listingPriceForPersonalUse": "€ 699 000",
     "status": "Elérhető"
   }
 ]

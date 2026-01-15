@@ -16,9 +16,9 @@
         "sumOfOutsideAreas": "98,08",
         "sumOfAllAreas": "156,54",
         "listingPriceForInvestors": "€ 415 740,74",
-        "listingPriceForPersonalUse": "€ 449 000,00",
+        "listingPriceForPersonalUse": "€ 449 000",
         "commonCharges": "€ 233,94",
-        "grossRentalFee": "€ 975,00",
+        "grossRentalFee": "€ 975",
         "status": "Elérhető"
     },
     {
@@ -38,9 +38,9 @@
         "sumOfOutsideAreas": "109,18",
         "sumOfAllAreas": "170,41",
         "listingPriceForInvestors": "€ 434 259,26",
-        "listingPriceForPersonalUse": "€ 469 000,00",
+        "listingPriceForPersonalUse": "€ 469 000",
         "commonCharges": "€ 246,94",
-        "grossRentalFee": "€ 965,00",
+        "grossRentalFee": "€ 965",
         "status": "Elérhető"
     },
     {
@@ -59,10 +59,10 @@
         "gardenArea": "-",
         "sumOfOutsideAreas": "6,79",
         "sumOfAllAreas": "59,66",
-        "listingPriceForInvestors": "€ 349 000,00",
+        "listingPriceForInvestors": "€ 349 000",
         "listingPriceForPersonalUse": "€ 323 148,15",
         "commonCharges": "€ 219,33",
-        "grossRentalFee": "€ 760,00",       
+        "grossRentalFee": "€ 760",       
         "status": "Elérhető"
     },
     {
@@ -82,9 +82,9 @@
         "sumOfOutsideAreas": "3,6",
         "sumOfAllAreas": "49,89",
         "listingPriceForInvestors": "€ 286 111,11",
-        "listingPriceForPersonalUse": "€ 309 000,00",
+        "listingPriceForPersonalUse": "€ 309 000",
         "commonCharges": "€ 195,84",
-        "grossRentalFee": "€ 715,00",
+        "grossRentalFee": "€ 715",
         "status": "Elérhető"
     },
     {
@@ -104,9 +104,9 @@
         "sumOfOutsideAreas": "9,66",
         "sumOfAllAreas": "87,33",
         "listingPriceForInvestors": "€ 508 333,33",
-        "listingPriceForPersonalUse": "€ 549 000,00",
+        "listingPriceForPersonalUse": "€ 549 000",
         "commonCharges": "€ 336,83",
-        "grossRentalFee": "€ 1160,00",
+        "grossRentalFee": "€ 1160",
         "status": "Elérhető"
     }
 ]
