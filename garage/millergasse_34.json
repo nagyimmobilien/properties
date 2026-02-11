@@ -24,20 +24,20 @@
         "projectAcronym": "MIL34",
         "houseNumber": "1",
         "parkingNumber": "3",
-        "listingPriceForInvestors": "€ 36 400",
-        "listingPriceForPersonalUse": "€ 40 000",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": "4",
         "projectAcronym": "MIL34",
         "houseNumber": "1",
         "parkingNumber": "4",
-        "listingPriceForInvestors": "€ 36 400",
-        "listingPriceForPersonalUse": "€ 40 000",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
         {
         "id": "5",
