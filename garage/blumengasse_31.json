@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "projectAcronym": "BLU31",
+        "houseNumber": 1,
+        "parkingNumber": "1",
+        "listingPriceForInvestors": "€ 34 000",
+        "listingPriceForPersonalUse": "€ 34 000",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 2,
+        "projectAcronym": "BLU31",
+        "houseNumber": 1,
+        "parkingNumber": "2",
+        "listingPriceForInvestors": "€ 30 000",
+        "listingPriceForPersonalUse": "€ 30 000",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 3,
+        "projectAcronym": "BLU31",
+        "houseNumber": 1,
+        "parkingNumber": "3",
+        "listingPriceForInvestors": "€ 30 000",
+        "listingPriceForPersonalUse": "€ 30 000",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 4,
+        "projectAcronym": "BLU31",
+        "houseNumber": 1,
+        "parkingNumber": "4",
+        "listingPriceForInvestors": "€ 30 000",
+        "listingPriceForPersonalUse": "€ 30 000",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 5,
+        "projectAcronym": "BLU31",
+        "houseNumber": 1,
+        "parkingNumber": "5",
+        "listingPriceForInvestors": "€ 40 000",
+        "listingPriceForPersonalUse": "€ 40 000",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    },
+    {
+        "id": 6,
+        "projectAcronym": "BLU31",
+        "houseNumber": 1,
+        "parkingNumber": "6",
+        "listingPriceForInvestors": "€ 30 000",
+        "listingPriceForPersonalUse": "€ 30 000",
+        "commonCharges": "-",
+        "status": "Elérhető"
+    }
+]
