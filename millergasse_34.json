@@ -1,25 +1,5 @@
 [
   {
-    "id": "1",
-    "projectAcronym": "MIL34",
-    "houseNumber": "1",
-    "apartmentNumber": "1",
-    "floorNumber": "Földszint",
-    "roomNumber": "2",
-    "livingArea": "55,74",
-    "loggiaArea": "-",
-    "balconyArea": "-",
-    "terraceArea": "6,97",
-    "roofTerraceArea": "-",
-    "gardenTerraceArea": "-",
-    "gardenArea": "-",
-    "sumOfOutsideAreas": "6,97",
-    "sumOfAllAreas": "62,71",
-    "listingPriceForInvestors": "€ 364 128",
-    "listingPriceForPersonalUse": "€ 396 900",
-    "status": "Elérhető"
-  },
-  {
     "id": "2",
     "projectAcronym": "MIL34",
     "houseNumber": "1",
