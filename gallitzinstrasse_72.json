@@ -57,8 +57,8 @@
     "gardenArea": "58,41",
     "sumOfOutsideAreas": "50,81",
     "sumOfAllAreas": "102,40",
-    "listingPriceForInvestors": "€ 756 200",
-    "listingPriceForPersonalUse": "€ 855 000",
+    "listingPriceForInvestors": "€ 783 800",
+    "listingPriceForPersonalUse": "€ 882 600",
     "commonCharges": { "netCommonCharges": 123.96, "elevatorCommonCharges": 23.29, "reserveFundCommonCharges": 52.39 },
     "status": "Elérhető"
 },
@@ -99,8 +99,8 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "15,39",
     "sumOfAllAreas": "114,73",
-    "listingPriceForInvestors": "€ 790 200",
-    "listingPriceForPersonalUse": "€ 872 400",
+    "listingPriceForInvestors": "€ 796 400",
+    "listingPriceForPersonalUse": "€ 878 600",
     "commonCharges": { "netCommonCharges": 211.34, "elevatorCommonCharges": 39.70, "reserveFundCommonCharges": 89.33 },
     "status": "Elérhető"
 },
@@ -141,8 +141,8 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "7,85",
     "sumOfAllAreas": "68,63",
-    "listingPriceForInvestors": "€ 476 800",
-    "listingPriceForPersonalUse": "€ 527 400",
+    "listingPriceForInvestors": "€ 485 800",
+    "listingPriceForPersonalUse": "€ 536 400",
     "commonCharges": { "netCommonCharges": 130.05, "elevatorCommonCharges": 24.43, "reserveFundCommonCharges": 54.97 },
     "status": "Elérhető"
 },
@@ -162,7 +162,7 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "16,97",
     "sumOfAllAreas": "114,70",
-    "listingPriceForInvestors": "€ 725 300",
+    "listingPriceForInvestors": "€ 725 500",
     "listingPriceForPersonalUse": "€ 806 900",
     "commonCharges": { "netCommonCharges": 209.31, "elevatorCommonCharges": 39.32, "reserveFundCommonCharges": 88.47 },
     "status": "Elérhető"
@@ -204,8 +204,8 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "11,06",
     "sumOfAllAreas": "88,36",
-    "listingPriceForInvestors": "€ 624 200",
-    "listingPriceForPersonalUse": "€ 688 200",
+    "listingPriceForInvestors": "€ 627 300",
+    "listingPriceForPersonalUse": "€ 691 300",
     "commonCharges": { "netCommonCharges": 164.60, "elevatorCommonCharges": 30.92, "reserveFundCommonCharges": 69.57 },
     "status": "Elérhető"
 },
@@ -225,8 +225,8 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "9,36",
     "sumOfAllAreas": "109,34",
-    "listingPriceForInvestors": "€ 763 300",
-    "listingPriceForPersonalUse": "€ 844 700",
+    "listingPriceForInvestors": "€ 778 300",
+    "listingPriceForPersonalUse": "€ 859 700",
     "commonCharges": { "netCommonCharges": 209.31, "elevatorCommonCharges": 39.32, "reserveFundCommonCharges": 88.47 },
     "status": "Elérhető"
 },
@@ -246,8 +246,8 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "31,63",
     "sumOfAllAreas": "130,58",
-    "listingPriceForInvestors": "€ 763 600",
-    "listingPriceForPersonalUse": "€ 853 700",
+    "listingPriceForInvestors": "€ 774 100",
+    "listingPriceForPersonalUse": "€ 864 200",
     "commonCharges": { "netCommonCharges": 231.66, "elevatorCommonCharges": 43.52, "reserveFundCommonCharges": 97.91 },
     "status": "Elérhető"
 },
@@ -309,8 +309,8 @@
     "gardenArea": "-",
     "sumOfOutsideAreas": "10",
     "sumOfAllAreas": "119,27",
-    "listingPriceForInvestors": "€ 845 500",
-    "listingPriceForPersonalUse": "€ 940 400",
+    "listingPriceForInvestors": "€ 854 600",
+    "listingPriceForPersonalUse": "€ 949 500",
     "commonCharges": { "netCommonCharges": 243.85, "elevatorCommonCharges": 45.81, "reserveFundCommonCharges": 103.07 },
     "status": "Elérhető"
 }
