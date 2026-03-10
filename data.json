@@ -328,19 +328,6 @@
     "district": "19. kerület",
     "projects": [
     {
-        "id": "1",
-        "district": "19. kerület",
-        "name": "Greinergasse 19",
-        "description": "Új építésű társasház a 19. kerület Nussdorf negyedében! Ízléses lakások exkluzív környezetben!",
-        "numberOfApartments": "25 lakás",
-        "sizeRangeOfApartments": "46-118 m²",
-        "roomRangeOfApartments": "2-5 szoba",
-        "numberOfParkingSpaces": "17 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/greinergasse-19/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/08/greinergasse-19-1536x864.png",
-        "isRaiffeisenWohnBauProject": true
-    },
-    {
         "id": "2",
         "district": "19. kerület",
         "name": "Heiligenstädter Straße 103",
