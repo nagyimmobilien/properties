@@ -328,6 +328,19 @@
     "district": "19. kerület",
     "projects": [
     {
+        "id": "1",
+        "district": "19. kerület",
+        "name": "Agnesgasse 45",
+        "description": "Új építésű társasház 18 lakással a 19. kerület csendes, zöldövezeti részén!",
+        "numberOfApartments": "18 lakás",
+        "sizeRangeOfApartments": "43-122 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "20 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/agnesgasse-45/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/03/AGN45_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
         "id": "2",
         "district": "19. kerület",
         "name": "Heiligenstädter Straße 103",
