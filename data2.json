@@ -251,25 +251,7 @@
         "isRaiffeisenWohnBauProject": true
     }
     ]
-},      
-{
-    "district": "15. kerület",
-    "projects": [
-    {
-        "id": "1",
-        "district": "15. kerület",
-        "name": "Rauchfangkehrergasse 30",
-        "description": "Új építésű lakókomplexum 27 db lakással és 3 db kétszintes városi házzal a 15. kerületben!",
-        "numberOfApartments": "30 lakás",
-        "sizeRangeOfApartments": "33-107 m²",
-        "roomRangeOfApartments": "1-6 szoba",
-        "numberOfParkingSpaces": "18 parkolóhely",
-        "linkToProject": "https://becsingatlan.com/pages/rauchfangkehrergasse-30/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2024/06/Tag-975x1024-1.jpg",
-        "isRaiffeisenWohnBauProject": false
-    }
-    ]
-},
+}, 
 {
     "district": "16. kerület",
     "projects": [
