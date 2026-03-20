@@ -15,12 +15,32 @@
     "gardenArea": "9,85",
     "sumOfOutsideAreas": "16,65",
     "sumOfAllAreas": "72,82",
-    "listingPriceForInvestors": "€ 374 312",
-    "listingPriceForPersonalUse": "€ 408 000",
-    "status": "Elérhető"
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "status": "Eladva"
   },
   {
     "id": "2",
+    "projectAcronym": "STA40",
+    "houseNumber": "1",
+    "apartmentNumber": "3",
+    "floorNumber": "Földszint",
+    "roomNumber": "2",
+    "livingArea": "56,17",
+    "loggiaArea": "-",
+    "balconyArea": "-",
+    "terraceArea": "-",
+    "roofTerraceArea": "-",
+    "gardenTerraceArea": "6,80",
+    "gardenArea": "9,85",
+    "sumOfOutsideAreas": "16,65",
+    "sumOfAllAreas": "72,82",
+    "listingPriceForInvestors": "-",
+    "listingPriceForPersonalUse": "-",
+    "status": "Eladva"
+  },
+  {
+    "id": "3",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "4",
@@ -40,7 +60,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "3",
+    "id": "4",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "8",
@@ -60,7 +80,7 @@
     "status": "Eladva"
   },
   {
-    "id": "4",
+    "id": "5",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "9",
@@ -80,7 +100,7 @@
     "status": "Eladva"
   },
   {
-    "id": "5",
+    "id": "6",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "10",
@@ -100,7 +120,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "6",
+    "id": "7",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "11",
@@ -120,7 +140,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "7",
+    "id": "8",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "12",
@@ -140,7 +160,7 @@
     "status": "Eladva"
   },
   {
-    "id": "8",
+    "id": "9",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "13",
@@ -160,7 +180,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "9",
+    "id": "10",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "14",
@@ -180,7 +200,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "10",
+    "id": "11",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "15",
@@ -200,7 +220,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "11",
+    "id": "12",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "16",
@@ -220,7 +240,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "12",
+    "id": "13",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "17",
@@ -240,7 +260,7 @@
     "status": "Elérhető"
   },
   {
-    "id": "13",
+    "id": "14",
     "projectAcronym": "STA40",
     "houseNumber": "1",
     "apartmentNumber": "18",
