@@ -1,5 +1,23 @@
 [
 {
+    "district": "2. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "2. kerület",
+        "name": "Stoffellagasse 7",
+        "description": "Új építésű projekt 62 lakással a 2. kerületben exkluzív panorámával a Prater zöldterületeire!",
+        "numberOfApartments": "62 lakás",
+        "sizeRangeOfApartments": "32-112 m²",
+        "roomRangeOfApartments": "1-4 szoba",
+        "numberOfParkingSpaces": "20 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/stoffellagasse-7/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/03/1020_STO7_thumnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
+},
+{
     "district": "3. kerület",
     "projects": [
     {
