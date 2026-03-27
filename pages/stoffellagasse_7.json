@@ -1,0 +1,16 @@
+{
+    "projectName": "Stoffellagasse 7",
+    "projectDescription": "Ez az új épEz az új építésű projekt Bécs 2. kerületében (Leopoldstadt) található, közvetlenül a Prater és a Donaukanal között. A társasházban összesen 62 lakás került kialakításra, a kínálatban 1-4 szobás, 32-112 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz erkély, terasz vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház saját mélygarázsában összesen 20 parkolóhely áll a lakók rendelkezésére. A társasház még építés alatt áll, várhatóan idén (2026) ősszel kerül átadásra.",
+    "projectAddress": "Stoffellagasse 7",
+    "projectInformation": ["62 db lakás", "32-112 m²", "1-4 szoba"],
+    "projectInfrastructure": ["20 db parkolóhely", "kerékpár-, és babakocsitároló", "játszótér"],
+    "projectEnergyCertificate": ["HWB: 32,5 kWh/m²a", "fGEE: 0,69"],
+    "projectStatus": ["építés alatt", "várható befejezés 2026 őszén"],
+    "projectMaker": "",
+    "projectFeatures": [
+        "A társasház műszaki és belső kialakítása a kényelmet és a fenntarthatóságot helyezi előtérbe. A lakóterekben stílusos tölgyfa parketta teremti meg az otthonos légkört, míg a vizes helyiségekben tartós, prémium kerámia burkolatok gondoskodnak a kifinomult és időtálló megjelenésről. ",
+        "Az energiahatékony hőszivattyús rendszer és az aktív betonfödém-technológia ötvözete biztosítja az ideális hőmérsékletet a lakásokban. A modern padlófűtés a hideg hónapokban kellemes, egyenletes komfortot nyújt, miközben a napelemek a tetőn további fenntartható energiát termelnek. A társasház 'klimaaktiv bronze-Zertifizierung' tanúsítvánnyal rendelkezik.",
+        "A padlótól a mennyezetig érő panorámablakok, három rétegű hőszigetelő üvegezéssel rendelkeznek, emellett külső elektromos üzemeltetésű redőnnyel is felszereltek. A társasház déli tájolású lakásaiból páratlan panoráma nyílik a Prater zöldterületére és az óriáskerékre."
+    ],
+    "projectLocation": "A társasház egy mérsékelt forgalommal rendelkező, mellékutcában található. Az infrastruktúra kiváló, a mindennapi élethez szükséges üzletek és szolgáltatások pár perc alatt gyalogosan elérhetők. Tömegközlekedési szempontból is ideális a lokáció, mindössze néhány perc sétára található az U1 és U2-es metró Praterstern megállója, ahonnan a város bármely pontja gyorsan és hatékonyan megközelíthető. A Prater zöldterülete és a Donaukanal hangulatos sétányai ideális helyszínt kínálnak szabadidős tevékenységekhez, sportoláshoz vagy akár kutyasétáltatáshoz."
+}
