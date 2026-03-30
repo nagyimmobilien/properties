@@ -1,0 +1,16 @@
+{
+    "projectName": "Gudrunstraße 120",
+    "projectDescription": "Ez az új építésű projekt 10. kerület frekventált részén található, az U1-es metró Keplerplatz megállójától mindössze 2 perc sétára. A társasházban összesen 102 lakás került kialakításra, a kínálatban 1-4 szobás, 31-148 m² alapterületű lakások szerepelnek. A lakásokhoz erkély, terasz vagy loggia is tartozik. A társasház saját mélygarázsában összesen 26 parkolóhely áll a lakók rendelkezésére. A társasház elkészült, a lakások azonnal költözhető állapotban vannak.",
+    "projectAddress": "Gudrunstraße 120",
+    "projectInformation": ["102 db lakás", "31-148 m²", "2-4 szoba"],
+    "projectInfrastructure": ["26 db parkolóhely", "kerékpár-, és babakocsitároló", "játszótér", "közös használatú tetőterasz"],
+    "projectEnergyCertificate": ["HWB: 25,4 kWh/m²a", "fGEE: 0,74"],
+    "projectStatus": ["azonnal költözhető"],
+    "projectMaker": "-",
+    "projectFeatures":  [
+        "A társasház a fenntarthatóság és az energiahatékonyság jegyében valósult meg, korszerű műszaki megoldásokkal és magas minőségű anyagok felhasználásával. A lakóterekben elegáns, prémium minőségű tölgyfa parketta került beépítésre, míg a vizes helyiségekben nagyméretű, modern kerámia fal- és padlóburkolat biztosítja az időtálló, letisztult megjelenést.",
+        "A kellemes hőérzetről a téli hónapokban távfűtéssel üzemeltetett, energiatakarékos padlófűtés gondoskodik. A lakások többrétegű, hőszigetelő üvegezésű nyílászárókkal rendelkeznek, amelyekhez külső, elektromos működtetésű redőny is tartozik, ezzel növelve a komfortérzetet és az energiahatékonyságot.",
+        "A lakók rendelkezésére áll egy kerékpár-, és babakocsitároló, egy játszótér, illetve egy közös használatú tetőterasz."
+    ],
+    "projectLocation": "A társasház kiemelkedő infrastruktúrával rendelkezik. A mindennapi élethez szükséges üzletek és szolgáltatások maximum 5 percen belül könnyedén elérhetők. A tömegközlekedési kapcsolatok szintén kiválóak, a közeli U1-es metró Keplerplatz megállójától mindössze 1 megálló a bécsi főpályaudvar, a belváros (Stephansplatz) pedig maximum 12 perc alatt megközelíthető, emellett 4 villamosmegálló is rendelkezésre áll a környéken, ezzel segítve a hatékony közlekedést. A közeli Helmut-Zilk-Park kiváló lehetőséget kínál szabadidős tevékenységekre. A környéken emellett edzőterem is rendelkezésre áll, valamint a közkedvelt Amalienbad uszoda is könnyen elérhető."
+}
