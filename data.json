@@ -235,6 +235,24 @@
     ]
 },
 {
+    "district": "11. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "11. kerület",
+        "name": "Dreherstrasse 77",
+        "description": "Új építésű társasház 12 lakással Bécs és Alsó-Ausztria határán a 11. kerület zöldövezeti részén!",
+        "numberOfApartments": "12 lakás",
+        "sizeRangeOfApartments": "40-100 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "nincs parkoló",
+        "linkToProject": "https://becsingatlan.com/pages/dreherstrasse-77/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/03/1110_DRE77_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }      
+    ]
+},
+{
     "district": "12. kerület",
     "projects": [
     {
