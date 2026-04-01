@@ -352,6 +352,19 @@
         "linkToProject": "https://becsingatlan.com/pages/staudgasse-40",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/10/staudgasse_40_thumbnail.png",
         "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "2",
+        "district": "18. kerület",
+        "name": "Semperstrasse 47",
+        "description": "Revitalizált századfordulós bérház, új építésű tetőtéri lakásokkal a 18. kerület frekventált részén a Währinger Park szomszédságában.",
+        "numberOfApartments": "22 lakás",
+        "sizeRangeOfApartments": "39-188 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "nincs parkoló",
+        "linkToProject": "https://becsingatlan.com/pages/semperstrasse-47",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1180_SEM47_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
     }
     ]
 },
