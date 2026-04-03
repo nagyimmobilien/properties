@@ -1,0 +1,12 @@
+{
+    "projectName": "Hungereckstraße 46",
+    "projectDescription": "Ez az új építésű projekt Bécs 23. kerületének (Liesing) csendes, zöldövezeti részén található. A társasházban összesen 17 lakás került kialakításra. A kínálatban 2 - 4 szobás, 38 - 103 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz erkély, terasz vagy loggia, a földszinti lakásokhoz saját kert is tartozik. A társasház saját mélygarázsában összesen 10 parkolóhely áll a lakók rendelkezésére. A társasház építése folyamatban van, az átadás várható időpontja 2027 eleje.",
+    "projectAddress": "Hungereckstraße 46",
+    "projectInformation": ["17 db lakás", "38-103 m²", "2-4 szoba"],
+    "projectInfrastructure": ["10 db parkolóhely"],
+    "projectEnergyCertificate": ["HWB: 38,5 kWh/m²a", "fGEE: 0,71"],
+    "projectStatus": ["építés alatt", "várható befejezés 2027 elején"],
+    "projectMaker": "-",
+    "projectFeatures": "A társasház korszerű, fenntartható fa–hibrid szerkezeti rendszerrel épült. A lakóterekben exkluzív tölgyfa parketta teremt meleg, otthonos hangulatot, míg a vizes helyiségekben nagyméretű kerámia padló- és falburkolatok biztosítják a modern, időtálló megjelenést. A háromrétegű hőszigetelő üvegezéssel ellátott műanyag nyílászárók beépített, elektromosan működtethető külső árnyékolóval rendelkeznek. A fürdőszobák minőségi Laufen Pro S szaniterekkel – mosdókagylóval, WC-vel és fürdőkáddal – felszereltek. Minden lakás okosotthon rendszerrel is rendelkezik, amely lehetővé teszi a fűtés, a világítás és az árnyékolók kényelmes, alkalmazáson keresztüli vezérlését. A lakásokhoz tartozik továbbá egy saját használatú pincehelyiség, illetve a lakók rendelkezésére áll egy kerékpár- és babakocsitároló, illetve az osztrák posta által kihelyezett csomagbox, a rendelések biztonságos átvételére.",
+    "projectLocation": "A társasház jó infrastruktúrával rendelkezik, a közelben megtalálhatók a mindennapi élethez szükséges üzletek, emellett a tömegközlekedés is kedvező mindössze 5 perc távolságra található villamos- és buszmegálló. A környéken több zöldterület is található, amelyek lehetőséget biztosítanak pihenésre, sportolásra vagy kellemes sétákra."
+}

@@ -538,5 +538,23 @@
         "isRaiffeisenWohnBauProject": false
     }
     ]
+},
+{
+    "district": "23. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "23. kerület",
+        "name": "Hungereckstraße 46",
+        "description": "Új építésű társasház 17 db lakással a 23. kerület csendes, zöldövezeti részén!",
+        "numberOfApartments": "17 lakás",
+        "sizeRangeOfApartments": "38-103 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "10 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/hungereckstrasse-46/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2025/12/1210_LAH6_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
 }
 ]
