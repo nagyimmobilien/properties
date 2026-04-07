@@ -4,8 +4,8 @@
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "1",
-        "listingPriceForInvestors": "€ 34 000",
-        "listingPriceForPersonalUse": "€ 34 000",
+        "listingPriceForInvestors": "€ 35 000",
+        "listingPriceForPersonalUse": "€ 35 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -14,18 +14,18 @@
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "2",
-        "listingPriceForInvestors": "€ 30 000",
-        "listingPriceForPersonalUse": "€ 30 000",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     },
     {
         "id": 3,
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "3",
-        "listingPriceForInvestors": "€ 30 000",
-        "listingPriceForPersonalUse": "€ 30 000",
+        "listingPriceForInvestors": "€ 31 000",
+        "listingPriceForPersonalUse": "€ 31 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -34,8 +34,8 @@
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "4",
-        "listingPriceForInvestors": "€ 30 000",
-        "listingPriceForPersonalUse": "€ 30 000",
+        "listingPriceForInvestors": "€ 31 000",
+        "listingPriceForPersonalUse": "€ 31 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -44,8 +44,8 @@
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "5",
-        "listingPriceForInvestors": "€ 40 000",
-        "listingPriceForPersonalUse": "€ 40 000",
+        "listingPriceForInvestors": "€ 41 000",
+        "listingPriceForPersonalUse": "€ 41 000",
         "commonCharges": "-",
         "status": "Elérhető"
     },
@@ -54,8 +54,8 @@
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "6",
-        "listingPriceForInvestors": "€ 30 000",
-        "listingPriceForPersonalUse": "€ 30 000",
+        "listingPriceForInvestors": "€ 31 000",
+        "listingPriceForPersonalUse": "€ 31 000",
         "commonCharges": "-",
         "status": "Elérhető"
     }
