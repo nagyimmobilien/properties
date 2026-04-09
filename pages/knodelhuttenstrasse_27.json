@@ -1,0 +1,12 @@
+{
+    "projectName": "Knödelhüttenstrasse 27",
+    "projectDescription": "Ez az új építésű projekt a 14. kerületben található, a Wiener Wald közvetlen szomszédságában. A projektben összesen 3 társasház épült 13 lakással. A kínálatban 2 - 4 szobás, 57 - 204 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz többségéhez erkély, terasz vagy loggia, a földszinti lakásokhoz saját kert is tartozik. Az építési munkálatok még folyamatban vannak, a várható befejezés 2027 végére tehető.",
+    "projectAddress": "Knödelhüttenstrasse 27",
+    "projectInformation": ["13 db lakás", "57-204 m²", "2-4 szoba"],
+    "projectInfrastructure": ["13 db parkolóhely", "tárolóhelyiség"],
+    "projectEnergyCertificate": ["HWB: 35,3 kWh/m²a", "fGEE: 0,70"],
+    "projectStatus": ["építés alatt", "(várható befejezés 2027 végén)"],
+    "projectMaker": "-",
+    "projectFeatures": "Ez az új építésű projekt a 14. kerületben található, a Wiener Wald közvetlen szomszédságában. A projektben összesen 3 társasház épült 13 lakással. A kínálatban 2 - 4 szobás, 57 - 204 m² alapterületű lakások szerepelnek. Az emeleti lakásokhoz többségéhez erkély, terasz vagy loggia, a földszinti lakásokhoz saját kert is tartozik. Az építési munkálatok még folyamatban vannak, a várható befejezés 2027 végére tehető.",
+    "projectLocation": "A projekt a bécsi erdő közvetlen szomszédságában helyezkedik el, távol a város zajától. Ennek köszönhetően a környék nyugodt, ugyanakkor az infrastruktúra és a tömegközlekedési lehetőségek korlátozottabbak. A közelben azonban található egy Spar üzlet, valamint a sarkon egy buszmegálló, ahonnan mindössze 10 perc alatt elérhető az U4-es metró Hütteldorf végállomása."
+}

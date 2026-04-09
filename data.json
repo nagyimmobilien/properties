@@ -300,6 +300,24 @@
         "isRaiffeisenWohnBauProject": true
     }
     ]
+},
+{
+    "district": "14. kerület",
+    "projects": [
+    {
+        "id": "1",
+        "district": "14. kerület",
+        "name": "Knödelhüttenstrasse 27",
+        "description": "Új építésű projekt 3 külön társasházzal, összesen 13 lakással a 14. kerület csendes, zöldövezeti részén, a Wiener Wald szomszédságában!",
+        "numberOfApartments": "13 lakás",
+        "sizeRangeOfApartments": "57-204 m²",
+        "roomRangeOfApartments": "2-4 szoba",
+        "numberOfParkingSpaces": "13 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/kondelhuttenstrasse-27/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1140_KNO27_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    }
+    ]
 }, 
 {
     "district": "16. kerület",
