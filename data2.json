@@ -327,7 +327,7 @@
         "roomRangeOfApartments": "1-5 szoba",
         "numberOfParkingSpaces": "14 parkolóhely",
         "linkToProject": "https://becsingatlan.com/pages/salzwiesengasse-44/",
-        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1140_KNO27_thumbnail.png",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1140_SAL44_thumbnail.png",
         "isRaiffeisenWohnBauProject": false
     }
     ]
@@ -405,6 +405,19 @@
     {
         "id": "1",
         "district": "19. kerület",
+        "name": "Agnesgasse 9",
+        "description": "Új építésű luxus társasház a 19. kerületben, a döblingi szőlőhegyek lábánál! A lakásokból exkluzív panoráma nyílik a városra, melyett a nyugodt, zöld környezet tesz teljessé!",
+        "numberOfApartments": "11 lakás",
+        "sizeRangeOfApartments": "65-169 m²",
+        "roomRangeOfApartments": "2-5 szoba",
+        "numberOfParkingSpaces": "11 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/agnesgasse-9/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1190_AGN9_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "2",
+        "district": "19. kerület",
         "name": "Agnesgasse 45",
         "description": "Új építésű társasház 18 lakással a 19. kerület csendes, zöldövezeti részén!",
         "numberOfApartments": "18 lakás",
@@ -416,7 +429,7 @@
         "isRaiffeisenWohnBauProject": false
     },
     {
-        "id": "2",
+        "id": "3",
         "district": "19. kerület",
         "name": "Heiligenstädter Straße 103",
         "description": "Új építésű társasház a 19. kerület frekventált részén! 43 db exkluzív lakás loggiával, erkéllyel, terasszal vagy kerttel!",
@@ -429,7 +442,7 @@
         "isRaiffeisenWohnBauProject": true
     },
     {
-        "id": "3",
+        "id": "4",
         "district": "19. kerület",
         "name": "Krottenbachstrasse 182",
         "description": "Luxusingatlanok a 19. kerület csendes, zöldövezeti részén. Hatalmas belső kertek és tetőteraszok. Prémium kivitelezés, kellemes napfényes lakások csodálatos kilátással.",
@@ -442,7 +455,7 @@
         "isRaiffeisenWohnBauProject": true
     },
     {
-        "id": "4",
+        "id": "5",
         "district": "19. kerület",
         "name": "Obersteinergasse 11",
         "description": "Új építésű társasház ÖGNI-Gold energiahatékonysági tanúsítvánnyal, a 19. kerület csendes, zöldövezeti részén. Klimatizált lakások és lélegzetelállító kilátás a városra.",
