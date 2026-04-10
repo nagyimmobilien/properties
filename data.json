@@ -316,6 +316,19 @@
         "linkToProject": "https://becsingatlan.com/pages/kondelhuttenstrasse-27/",
         "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1140_KNO27_thumbnail.png",
         "isRaiffeisenWohnBauProject": false
+    },
+    {
+        "id": "2",
+        "district": "14. kerület",
+        "name": "Salzwiesengasse 44",
+        "description": "Új építésű társasház a bécsi erdő mellett a 14. kerületben! A kínálatban 14 kiváló minőségű és felszereltségű lakás található, exkluzív kilátással a természetre!",
+        "numberOfApartments": "14 lakás",
+        "sizeRangeOfApartments": "31-161 m²",
+        "roomRangeOfApartments": "1-5 szoba",
+        "numberOfParkingSpaces": "14 parkolóhely",
+        "linkToProject": "https://becsingatlan.com/pages/salzwiesengasse-44/",
+        "image": "https://becsingatlan.com/pages/wp-content/uploads/2026/04/1140_KNO27_thumbnail.png",
+        "isRaiffeisenWohnBauProject": false
     }
     ]
 }, 
