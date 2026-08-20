@@ -100,26 +100,6 @@
     "status": "Eladva"
   },
   {
-    "id": "6",
-    "projectAcronym": "STA40",
-    "houseNumber": "1",
-    "apartmentNumber": "10",
-    "floorNumber": "2. emelet",
-    "roomNumber": "2",
-    "livingArea": "60,71",
-    "loggiaArea": "2,79",
-    "balconyArea": "-",
-    "terraceArea": "-",
-    "roofTerraceArea": "-",
-    "gardenTerraceArea": "-",
-    "gardenArea": "-",
-    "sumOfOutsideAreas": "2,79",
-    "sumOfAllAreas": "63,50",
-    "listingPriceForInvestors": "€ 445 596",
-    "listingPriceForPersonalUse": "€ 485 700",
-    "status": "Elérhető"
-  },
-  {
     "id": "7",
     "projectAcronym": "STA40",
     "houseNumber": "1",

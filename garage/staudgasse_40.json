@@ -10,16 +10,6 @@
         "status": "Eladva"
     },
     {
-        "id": "2",
-        "projectAcronym": "STA40",
-        "houseNumber": "1",
-        "parkingNumber": "2",
-        "listingPriceForInvestors": "€ 31 850",
-        "listingPriceForPersonalUse": "€ 35 000",
-        "commonCharges": "-",
-        "status": "Elérhető"
-    },
-    {
         "id": "3",
         "projectAcronym": "STA40",
         "houseNumber": "1",
