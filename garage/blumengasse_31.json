@@ -54,9 +54,9 @@
         "projectAcronym": "BLU31",
         "houseNumber": 1,
         "parkingNumber": "6",
-        "listingPriceForInvestors": "€ 31 000",
-        "listingPriceForPersonalUse": "€ 31 000",
+        "listingPriceForInvestors": "-",
+        "listingPriceForPersonalUse": "-",
         "commonCharges": "-",
-        "status": "Elérhető"
+        "status": "Eladva"
     }
 ]
